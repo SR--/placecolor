@@ -2,7 +2,7 @@
 id: w-4l8HpNv1OhvF1O02EUA
 title: Exhibition
 desc: ''
-updated: 1624351113853
+updated: 1624352296209
 created: 1624349782162
 ---
 
@@ -14,3 +14,6 @@ created: 1624349782162
 - The exhibition helps stakeholders tell their own stories
 - The exhibition is open-ended, visitors can construct their own stories
 
+## Relevant Technical Capabilities
+
+- Published notes can be edited from the web by anyone with a GitHub account
