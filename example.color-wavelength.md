@@ -2,7 +2,7 @@
 id: kbDxNouRAJ6LSxKEgznDS
 title: Wavelengths of various colours
 desc: Image depicting the wavelengths of significant colours
-updated: 1624456023114
+updated: 1624456077367
 created: 1624430155379
 ---
 
