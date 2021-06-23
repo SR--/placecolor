@@ -2,7 +2,7 @@
 id: h84roLxtEaiW4UB37Tg48
 title: Research
 desc: ''
-updated: 1624409592245
+updated: 1624428398153
 created: 1624351149903
 ---
 
@@ -34,3 +34,8 @@ Are exhibitions still useful, intellectually or ethically?
 
 Strong/weak sides to them
 The observation that something has been common in the past or is still common does not necessarily mean it is a good/worthwhile way to do things
+
+* Useful/parallel/interesting concepts
+  * [Digital gardening](https://github.com/MaggieAppleton/digital-gardeners)
+    * Loosely organised/hierarchical collections of notes that serve as knowledge bases for users.
+    * [History of the concept by Maggie Appleton](https://maggieappleton.com/garden-history)
