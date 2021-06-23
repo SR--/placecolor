@@ -2,7 +2,7 @@
 id: h84roLxtEaiW4UB37Tg48
 title: Research
 desc: ''
-updated: 1624432092870
+updated: 1624432187845
 created: 1624351149903
 ---
 
@@ -10,11 +10,15 @@ created: 1624351149903
 
 
 ## Significance
+- [ ] Describe the difference between the Place and Parametricism objectives and this exhibition's objectives
 
+Provide the larger-level questions
 ## Gap
 
 ## Opportunity
+
 ## Research Questions and Outcomes
+
 
 What roles do tools play in the perception, communication, memory and use of colour (place colour, situated colour, etc.)?
 
