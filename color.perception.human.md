@@ -2,7 +2,7 @@
 id: h8eNO16MFkDAD9s8wvhsw
 title: Human perception of color
 desc: ''
-updated: 1624456838177
+updated: 1624457042594
 created: 1624453472853
 ---
 
@@ -12,9 +12,9 @@ created: 1624453472853
 
 The visible spectrum of colors visible to the human eye is a subset of the electromagnetic spectrum.
 
-[[color.physics]]
+* [[color.physics]]
 
 
-### Differences across cultures
+### Differences in perceptual ability between humans
 
 [^1]: Elert, Glenn. *The Physics Hypertextbook*. Brooklyn, NY: Glenn Elert, 1998–. [https://physics.info/color/](https://physics.info/color/).

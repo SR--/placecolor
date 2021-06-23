@@ -1,8 +1,8 @@
 ---
 id: JxVmP51RHsaoc3DC8cojU
-title: Physics
+title: Physical properties of colour
 desc: ''
-updated: 1624433593179
+updated: 1624457065533
 created: 1624351713774
 ---
 
