@@ -2,13 +2,32 @@
 id: h84roLxtEaiW4UB37Tg48
 title: Research
 desc: ''
-updated: 1624428540004
+updated: 1624432092870
 created: 1624351149903
 ---
 
+
+
+
+## Significance
+
+## Gap
+
+## Opportunity
 ## Research Questions and Outcomes
 
-Describe research questions, objectives, methods, and outcomes of the exhibition
+What roles do tools play in the perception, communication, memory and use of colour (place colour, situated colour, etc.)?
+
+## Hypothesis
+
+## Objectives
+
+1. Articulate complex relationships in physics, biology, culture, and design that human scholarship does not fully understand. Provide a way to discuss complex and contested issues where important research results exists but are not conclusive.
+2. Link scholarship from multiple domains of knowledge and practice.
+3. Present the outcomes in the form that overcomes the constraints of journal and book publishing with their limitations on the numbers of images or alternative and parallel narratives.
+4. Encourage visitors to experience the content as an experiment that they have to perform with the aim of expanding their knowledge but also their ethical, cultural and practical imagination.
+5. Curate for constructure and productive engagement with content supported by speculative design experiments and the need to constructively engage with what is given, like a game, with support and some rules.
+
 
 ## Notes
 
