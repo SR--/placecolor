@@ -2,7 +2,7 @@
 id: kbDxNouRAJ6LSxKEgznDS
 title: Wavelengths of various colours
 desc: 'Image depicting the wavelengths of significant colours'
-updated: 1624450757069
+updated: 1624451009500
 created: 1624430155379
 ---
 
@@ -11,5 +11,5 @@ created: 1624430155379
 #### CIE xy chromaticity diagram
 ![CIE xy chromaticity diagram](assets/images/cie1931-chromaticity.svg)
 <figcaption>
-CIE chromaticity diagram including the Planckian Locus of the black body color. Date of creation or completion. Medium. Wikipedia. 2005.
+CIE chromaticity diagram including the Planckian Locus of the black body color. 2005.  Wikipedia. .
 </figcaption>
