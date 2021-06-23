@@ -2,7 +2,7 @@
 id: w-4l8HpNv1OhvF1O02EUA
 title: Exhibition
 desc: ''
-updated: 1624352296209
+updated: 1624409654670
 created: 1624349782162
 ---
 
@@ -13,6 +13,7 @@ created: 1624349782162
 - The exhibition is participatory, many can contribute
 - The exhibition helps stakeholders tell their own stories
 - The exhibition is open-ended, visitors can construct their own stories
+- The exhibition as a seed for future work
 
 ## Relevant Technical Capabilities
 
