@@ -2,7 +2,7 @@
 id: h84roLxtEaiW4UB37Tg48
 title: Research
 desc: ''
-updated: 1624432187845
+updated: 1624432622305
 created: 1624351149903
 ---
 
@@ -19,7 +19,6 @@ Provide the larger-level questions
 
 ## Research Questions and Outcomes
 
-
 What roles do tools play in the perception, communication, memory and use of colour (place colour, situated colour, etc.)?
 
 ## Hypothesis
@@ -30,10 +29,11 @@ What roles do tools play in the perception, communication, memory and use of col
 2. Link scholarship from multiple domains of knowledge and practice.
 3. Present the outcomes in the form that overcomes the constraints of journal and book publishing with their limitations on the numbers of images or alternative and parallel narratives.
 4. Encourage visitors to experience the content as an experiment that they have to perform with the aim of expanding their knowledge but also their ethical, cultural and practical imagination.
-5. Curate for constructure and productive engagement with content supported by speculative design experiments and the need to constructively engage with what is given, like a game, with support and some rules.
-
+5. Curate for constructive and productive engagement with content supported by speculative design experiments and the need to constructively engage with what is given, like a game, with support and some rules.
 
 ## Notes
+
+- [ ] Integrate the notes below into the text proper
 
 Suggestions for Awnili
 
@@ -65,4 +65,4 @@ The observation that something has been common in the past or is still common do
 
 * Future ideas
   * Integration of reference objects (e.g. Zotero) into knowledge bases
-  * More meaningful integration of notes with node graph, so nodes 
+  * More meaningful integration of notes with node graph, so nodes
