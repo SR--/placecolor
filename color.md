@@ -10,4 +10,4 @@ created: 1624349510689
 
 Provide definitions of colour here...
 
-[[example.colour-definition]]
+[[example.color-definition]]

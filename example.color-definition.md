@@ -1,6 +1,6 @@
 ---
 id: 37zhK9x-pYpTTiSIpcZ7l
-title: Colour Definition
+title: Color Definition
 desc: ''
 updated: 1624433865097
 created: 1624430310002
