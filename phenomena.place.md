@@ -2,7 +2,7 @@
 id: DGuctHcDOTFbZtytqe-Rw
 title: Place
 desc: ''
-updated: 1624454226065
+updated: 1624454685182
 created: 1624432732155
 ---
 
@@ -18,4 +18,4 @@ Formation and evolution of the solar system
 
 The story of the universe in chapter titles
 
-[^1]: Swimme, Brian, and Thomas Berry. The Universe Story: From the Primordial Flaring Forth to the Ecozoic Era—A Celebration of the Unfolding of the Cosmos. New York: HarperCollins, 1992.
+[^1]: Swimme, Brian, and Thomas Berry. _The Universe Story: From the Primordial Flaring Forth to the Ecozoic Era—A Celebration of the Unfolding of the Cosmos_. New York: HarperCollins, 1992.
