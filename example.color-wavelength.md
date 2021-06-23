@@ -2,7 +2,7 @@
 id: kbDxNouRAJ6LSxKEgznDS
 title: Wavelengths of various colours
 desc: Image depicting the wavelengths of significant colours
-updated: 1624455321503
+updated: 1624455391062
 created: 1624430155379
 ---
 
@@ -11,4 +11,4 @@ created: 1624430155379
 Blacus,  Victor. <i>The electromagnetic spectrum</i>. 2012. Wikipedia. <a href="https://tinyurl.com/yc3td8kv">https://tinyurl.com/yc3td8kv</a>.
 </figcaption>
 
-Within the electromagnetic spectrum is visible colours
+Within the electromagnetic spectrum is a range of wavelengths known as the visible spectrum
