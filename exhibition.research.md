@@ -2,7 +2,7 @@
 id: h84roLxtEaiW4UB37Tg48
 title: Research
 desc: ''
-updated: 1624428398153
+updated: 1624428540004
 created: 1624351149903
 ---
 
@@ -39,3 +39,7 @@ The observation that something has been common in the past or is still common do
   * [Digital gardening](https://github.com/MaggieAppleton/digital-gardeners)
     * Loosely organised/hierarchical collections of notes that serve as knowledge bases for users.
     * [History of the concept by Maggie Appleton](https://maggieappleton.com/garden-history)
+
+* Future ideas
+  * Integration of reference objects (e.g. Zotero) into knowledge bases
+  * More meaningful integration of notes with node graph, so nodes 
