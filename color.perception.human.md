@@ -2,7 +2,7 @@
 id: h8eNO16MFkDAD9s8wvhsw
 title: Human perception of color
 desc: ''
-updated: 1624457404192
+updated: 1624457494985
 created: 1624453472853
 ---
 
@@ -14,10 +14,12 @@ The visible spectrum of colors visible to the human eye is a subset of the elect
 
 * [[color.physics]]
 
-
 ### Differences in perceptual ability between humans
 
+* Normal variance in perceptual ability in humans, e.g. color blindness.
+
 ### The concept of colour universals
+
 [ ] Find example from World Color Survey
 
 [^2]
@@ -25,4 +27,4 @@ The visible spectrum of colors visible to the human eye is a subset of the elect
 
 [^1]: Elert, Glenn. *The Physics Hypertextbook*. Brooklyn, NY: Glenn Elert, 1998–. [https://physics.info/color/](https://physics.info/color/).
 
-[^2]: 
+[^2]: Kay, Paul, Brent Berlin, Luisa Maffi, William R. Merrifield, and Richard Cook. *The World Color Survey*. Stanford: Center for the Study of Language and Information Publications, 2010.
