@@ -1,8 +1,8 @@
 ---
 id: 3s7wzZqzhNXsruHgpaYn1
-title: Nonhuman perception of color
+title: Color Vision of Bees
 desc: ''
-updated: 1624517538736
+updated: 1624530445852
 created: 1624453481861
 ---
 
