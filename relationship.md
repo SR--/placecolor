@@ -1,14 +1,22 @@
 ---
 id: FlKsi1_5ZYy3hlwpigCHp
-title: Phenomenon
+title: Relationship
 desc: ''
-updated: 1624432955766
+updated: 1624530147540
 created: 1624432678654
+stub: true
 ---
 
-Phenomena are the entities that the exhibition attempts to question or expand. The objective is to encourage reflection and to make the audience/participant rethink what they know.
+Relationships are the entities that the exhibition attempts to question or expand. The objective is to encourage reflection and to make the audience/participant rethink what they know.
 
-## Key Phenomena
+## Key Ideas
+
+- We can see the universe in terms of relationships
+- Abiotic structures and patterns are relationships
+- Living beings are always in multiple relationships
+- Color is one characteristic examples
+
+## Key Relationships
 
 Each of these is represented in a separate file
 

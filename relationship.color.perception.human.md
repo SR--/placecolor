@@ -12,7 +12,7 @@ created: 1624453472853
 
 The visible spectrum of colors visible to the human eye is a subset of the electromagnetic spectrum.
 
-* [[phenomenon.color.physics]]
+* [[relationship.color.physics]]
 
 ### Differences in perceptual ability between humans
 

@@ -6,6 +6,6 @@ updated: 1624517542774
 created: 1624351702950
 ---
 
-###[[phenomenon.color.perception.human]]
+###[[relationship.color.perception.human]]
 
-###[[phenomenon.color.perception.nonhuman]]
+###[[relationship.color.perception.nonhuman]]
