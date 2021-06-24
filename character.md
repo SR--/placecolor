@@ -1,6 +1,6 @@
 ---
 id: FQBfvb69VahpvgM_b945d
-title: Characters
+title: Character
 desc: ''
 updated: 1624512558705
 created: 1624430653795
