@@ -1,13 +1,8 @@
 ---
-id: X7YILmRs4-us6j0Cqr8mB
+id: LRteN6bgBnzCzjVb_iBSl
 title: Color
 desc: ''
-updated: 1624432023107
-created: 1624349510689
+updated: 1624516892832
+created: 1624516892832
 ---
 
-## What is Color?
-
-Provide definitions of colour here...
-
-[[example.color-definition]]

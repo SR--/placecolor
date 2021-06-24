@@ -2,17 +2,17 @@
 id: h8eNO16MFkDAD9s8wvhsw
 title: Human perception of color
 desc: ''
-updated: 1624457494985
+updated: 1624516567492
 created: 1624453472853
 ---
 
 > The human eye can distinguish something on the order of 7 to 10 million colors — that's a number greater than the number of words in the English language (the largest language on Earth).[^1]
 
-![[example.color-wavelength#]]
+![[example.color-wavelength]]
 
 The visible spectrum of colors visible to the human eye is a subset of the electromagnetic spectrum.
 
-* [[color.physics]]
+* [[phenomena.color.physics]]
 
 ### Differences in perceptual ability between humans
 
