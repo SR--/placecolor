@@ -1,6 +1,6 @@
 ---
 id: WABeg4oZlOydEapBvDzcq
-title: Templates
+title: Template
 desc: ''
 updated: 1624454386416
 created: 1624454386416
