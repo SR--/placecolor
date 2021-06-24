@@ -1,8 +1,8 @@
 ---
 id: 37zhK9x-pYpTTiSIpcZ7l
-title: Color Definition
+title: Definitions of color
 desc: ''
-updated: 1624513140159
+updated: 1624513276032
 created: 1624430310002
 ---
 
