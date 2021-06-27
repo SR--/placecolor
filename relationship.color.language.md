@@ -2,13 +2,16 @@
 id: fY1IaxfskZCKCL4cOn5eQ
 title: Language about colour
 desc: ''
-updated: 1624513917711
+updated: 1624697209236
 created: 1624351689985
 ---
 
 ### Differences in human languages used to describe colour
 
 * Show examples from WCS
+
+### The concept of colour universals
+
 * Walpiri language example.[^1]
 
 [ ] Example: Colour timeline snapshots with annotations
