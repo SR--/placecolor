@@ -2,7 +2,7 @@
 id: X7YILmRs4-us6j0Cqr8mB
 title: Color
 desc: ''
-updated: 1624844423474
+updated: 1624845623272
 created: 1624349510689
 ---
 
@@ -22,9 +22,10 @@ The spectrum of colours visible to humans is defined by the range of wavelengths
 To illustrate:
 
 * Color is:
-  * "A function of the human visual system."[^2]
-  * A term referring to a [[range of wavelengths within the electromagnetic spectrum|relationship.color.physics]] 
-  * 
+  * **Perception**: "A function of the human visual system."[^2]
+    * The [[ability to perceive certain wavelengths as visual information|relationship.color.perception]] is determined by the evolution of biological systems.  
+  * **Physics**: A term referring to a [[range of wavelengths within the electromagnetic spectrum|relationship.color.physics]].
+  * **Language** [[A group of words referring to specific colors|relationship.color.language]].
 
 [^1]: Elert, Glenn. *The Physics Hypertextbook*. Brooklyn, NY: Glenn Elert, 1998–. [https://physics.info/color/](https://physics.info/color/).
 [^2]: *Ibid*.
