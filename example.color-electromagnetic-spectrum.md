@@ -2,7 +2,7 @@
 id: f-ARMx_b2P3E0pvffetMq
 title: The Electromagnetic Spectrum
 desc: 'Image depicting the electromagnetic spectrum with wavelengths'
-updated: 1624530254181
+updated: 1624843297308
 created: 1624456391257
 ---
 

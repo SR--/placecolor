@@ -2,11 +2,10 @@
 id: kbDxNouRAJ6LSxKEgznDS
 title: Wavelengths of Colours
 desc: Image depicting the wavelengths of significant colours
-updated: 1624530303427
+updated: 1624843294744
 created: 1624430155379
 ---
 
-^visible-spectrum
 ![Visible spectrum](assets/images/color-visible-spectrum.svg)
 <figcaption>
 Gringer. <i>An sRGB rendering of the spectrum of visible light

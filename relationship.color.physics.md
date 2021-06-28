@@ -1,11 +1,11 @@
 ---
 id: JxVmP51RHsaoc3DC8cojU
-title: Physical properties of colour
+title: Physical properties of color
 desc: ''
-updated: 1624513448125
+updated: 1624843274164
 created: 1624351713774
 ---
-![[example.color-definition]]
+![[example.color-wavelength]]
 
 ![[example.color-electromagnetic-spectrum]]
 
