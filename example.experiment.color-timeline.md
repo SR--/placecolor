@@ -2,7 +2,7 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1624952943332
+updated: 1624955618088
 created: 1624856251572
 ---
 
@@ -12,8 +12,6 @@ created: 1624856251572
 - [ ] Output full timeline as a graph
 - [ ] Output full table as a .csv file
 - [ ] Include groups of colours with representative sentences as tables
-
-![[template.experiment]]
 
 ### Context
 
@@ -25,12 +23,18 @@ created: 1624856251572
 
 - Agents
   - Clients
-    - Readers of the novel can use the timeline as a tool to supplement deep reading and exploration of the text.
-    - Designers and artists can use the tool to support creative (re-)interpretations of the work.
+    - Readers of the novel can use the timeline as a tool to supplement deep reading and exploration of the novel.
+    - Designers and artists can use the tool to support creative (re-)interpretations of the novel.
   - Actors
     - [[The author|example.experiment.gormenghast]] and his unique set of experiences, biases, stylistic flourishes, etc.
 
 ### Methods
+
+- Why did we select this novel?
+
+![[example.gormenghast#Why-did-we-select-this-novel:#Place-in-Gormenghast]]
+
+- Provide a critical description of the novel in terms of colour 
 
 ### Results
 
