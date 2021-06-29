@@ -2,11 +2,12 @@
 id: vVaZm9euSzpVrQkRS4Bac
 title: Gormenghast
 desc: ''
-updated: 1624885556898
+updated: 1624928394662
 created: 1624874220620
 ---
 
-[ ] Expand notes into full sentences
+- [ ] Expand notes into full sentences
+- [ ] Include numerical evidence for lexical diversity in *Gormenghast*
 
 ### About *Gormenghast*
 
@@ -27,7 +28,6 @@ Cover of the <i>The Gormenghast Novels</i>, 1995. Overlook Press.
 
 * Intuitively, Peake uses an extended vocabulary related to colour/light/visual impressions.
 
-[ ] Include numerical evidence for lexical diversity in *Gormenghast*
 
 ### Place in *Gormenghast*
 

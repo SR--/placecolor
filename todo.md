@@ -2,7 +2,7 @@
 id: N8L6KiwejXdGFt3MSUB2i
 title: To-do List
 desc: ''
-updated: 1624516879291
+updated: 1624928775443
 created: 1624437427812
 ---
 
@@ -10,5 +10,5 @@ created: 1624437427812
 
 ## General Tasks
 
-[ ] Standard convention for tagging other notes inline
-[ ] Standard convention for headers in notes
+- [ ] Standard convention for tagging other notes inline
+- [ ] Standard convention for headers in notes

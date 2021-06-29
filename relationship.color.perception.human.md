@@ -2,7 +2,7 @@
 id: h8eNO16MFkDAD9s8wvhsw
 title: Human perception of color
 desc: ''
-updated: 1624517541120
+updated: 1624928750239
 created: 1624453472853
 ---
 
@@ -20,7 +20,7 @@ The visible spectrum of colors visible to the human eye is a subset of the elect
 
 ### The concept of colour universals
 
-[ ] Find example from World Color Survey
+- [ ] Find example from World Color Survey
 
 [^2]
 
