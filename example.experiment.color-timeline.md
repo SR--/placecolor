@@ -2,7 +2,7 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1624949154592
+updated: 1624952943332
 created: 1624856251572
 ---
 
@@ -14,11 +14,12 @@ created: 1624856251572
 - [ ] Include groups of colours with representative sentences as tables
 
 ![[template.experiment]]
+
 ### Context
 
 #### Objectives
 
-* Provide a tool for exploring the use of color in *Gormenghast*
+- Provide a tool for exploring the use of color in *Gormenghast*
 
 #### Agents
 
@@ -34,4 +35,3 @@ created: 1624856251572
 ### Results
 
 ### Discussion
-
