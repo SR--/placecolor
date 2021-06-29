@@ -5,6 +5,7 @@ desc: ''
 updated: 1624844424790
 created: 1624351713774
 ---
+
 ![[example.color-wavelength]]
 
 ![[example.color-electromagnetic-spectrum]]

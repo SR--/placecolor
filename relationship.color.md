@@ -5,6 +5,7 @@ desc: ''
 updated: 1624928525490
 created: 1624349510689
 ---
+
 - [ ] Discuss and expand from notes
 ## What is Color?
 

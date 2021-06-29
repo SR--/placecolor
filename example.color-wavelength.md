@@ -6,6 +6,7 @@ updated: 1624843294744
 created: 1624430155379
 ---
 
+
 ![Visible spectrum](assets/images/color-visible-spectrum.svg)
 <figcaption>
 Gringer. <i>An sRGB rendering of the spectrum of visible light

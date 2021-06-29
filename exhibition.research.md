@@ -9,6 +9,7 @@ created: 1624351149903
 
 
 
+
 ## Significance
 - [ ] Describe the difference between the Place and Parametricism objectives and this exhibition's objectives
 

@@ -6,6 +6,7 @@ updated: 1624928750239
 created: 1624453472853
 ---
 
+
 > The human eye can distinguish something on the order of 7 to 10 million colors — that's a number greater than the number of words in the English language (the largest language on Earth).[^1]
 
 ![[example.color-wavelength]]
