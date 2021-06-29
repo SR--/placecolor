@@ -2,12 +2,36 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1624934074058
+updated: 1624949154592
 created: 1624856251572
 ---
 
+![Color timeline](assets/images/color-frequencies.png)
 
 - [ ] Write explanation for the experiment
 - [ ] Output full timeline as a graph
 - [ ] Output full table as a .csv file
 - [ ] Include groups of colours with representative sentences as tables
+
+![[template.experiment]]
+### Context
+
+#### Objectives
+
+* Provide a tool for exploring the use of color in *Gormenghast*
+
+#### Agents
+
+- Agents
+  - Clients
+    - Readers of the novel can use the timeline as a tool to supplement deep reading and exploration of the text.
+    - Designers and artists can use the tool to support creative (re-)interpretations of the work.
+  - Actors
+    - [[The author|example.experiment.gormenghast]] and his unique set of experiences, biases, stylistic flourishes, etc.
+
+### Methods
+
+### Results
+
+### Discussion
+
