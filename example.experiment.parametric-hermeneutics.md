@@ -6,16 +6,18 @@ updated: 1625021121277
 created: 1625021121277
 ---
 
-### Notes
+## Project Description
 
-#### Smart Spaces
+## Notes
+
+### Smart Spaces
 
 - [Mediated Atmospheres](https://www.media.mit.edu/posts/mediated-atmosphere/)
   - Extending research into use of atmosphere (lighting, air conditioning, other environmental parameters) beyond concerns about productivity  at the office, e.g. health, mood, satisfaction, nonhuman issues, etc.
 - [Herztian Space](http://cyborganthropology.com/Hertzian_Space)
   - Taylor, Mark. “Hertzian Space: Material Response to Spatial Presence.” *Architectural Design* 77, no. 5 (2007): 149–51. https://doi.org/10/dpjskt.
 
-#### Machine Learning
+### Machine Learning
 
 - Atmosphere, mood and emotion
   - Architecture
