@@ -2,7 +2,7 @@
 id: FlKsi1_5ZYy3hlwpigCHp
 title: Relationship
 desc: ''
-updated: 1624530147540
+updated: 1625039828194
 created: 1624432678654
 stub: true
 ---
@@ -17,6 +17,8 @@ Relationships are the entities that the exhibition attempts to question or expan
 - Color is one characteristic examples
 
 ## Key Relationships
+
+- [ ] Discuss and decide where to place discussion about data/quantifying (could belong to Communication or Culture)
 
 Each of these is represented in a separate file
 
