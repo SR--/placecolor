@@ -2,11 +2,11 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1624955618088
+updated: 1625013739131
 created: 1624856251572
 ---
 
-![Color timeline](assets/images/color-frequencies.png)
+![Color timeline](/assets/images/color-frequencies.png)
 
 - [ ] Write explanation for the experiment
 - [ ] Output full timeline as a graph

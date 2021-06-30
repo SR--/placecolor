@@ -2,7 +2,7 @@
 id: vVaZm9euSzpVrQkRS4Bac
 title: Gormenghast
 desc: ''
-updated: 1624928394662
+updated: 1625013739136
 created: 1624874220620
 ---
 
@@ -12,7 +12,7 @@ created: 1624874220620
 
 ### About *Gormenghast*
 
-![Gormenghast cover](assets/images/gormenghast-cover.jpg)
+![Gormenghast cover](/assets/images/gormenghast-cover.jpg)
 <p>
 <figcaption>
 Cover of the <i>The Gormenghast Novels</i>, 1995. Overlook Press.

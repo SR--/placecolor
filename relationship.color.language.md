@@ -2,7 +2,7 @@
 id: fY1IaxfskZCKCL4cOn5eQ
 title: Language about colour
 desc: ''
-updated: 1624928507742
+updated: 1625013739138
 created: 1624351689985
 ---
 
@@ -13,7 +13,7 @@ created: 1624351689985
 
 ### The concept of colour universals
 
-![Colour universals image](assets/images/lindsay-brown-within-language-diversity.png)
+![Colour universals image](/assets/images/lindsay-brown-within-language-diversity.png)
 [^1]
 <p>
 <figcaption>
