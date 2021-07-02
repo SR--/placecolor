@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis
 desc: ''
-updated: 1625209794441
+updated: 1625210274068
 created: 1624955696999
 ---
 
@@ -41,9 +41,9 @@ Standard introduction for any tasks involving text analysis of *[[Gormenghast|ex
 - Select a test corpus
   - Why did we select this novel?
 
-
 ### Results
 
 * See [[example.experiment]] for the outcomes of our attempts to apply the above logic to several "phenomena" in the novel.
 
 ![[example.experiment]]
+
