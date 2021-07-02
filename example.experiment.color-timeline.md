@@ -2,7 +2,7 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1625203712829
+updated: 1625210511020
 created: 1624856251572
 ---
 
@@ -35,14 +35,7 @@ created: 1624856251572
 
 ### Methods
 
-- Why did we select this novel?
-  - See: [[example.gormenghast|example.gormenghast#Why-did-we-select-this-novel]]
-- 
-
-
 ![[example.experiment.text-analysis]]
-
-
 
 - Provide a critical description of the novel in terms of colour 
 

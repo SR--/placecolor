@@ -2,11 +2,16 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis
 desc: ''
-updated: 1625210274068
+updated: 1625211297319
 created: 1624955696999
 ---
 
-![[template.experiment]]
+![](/assets/images/sample_dat_filtered.png)
+<p>
+<figcaption>
+Excerpt from text analysis of <i>Gormenghast</i>.
+</figcaption>
+</p>
 
 ### Context
 
@@ -39,11 +44,8 @@ Standard introduction for any tasks involving text analysis of *[[Gormenghast|ex
 ### Methods
 
 - Select a test corpus
-  - Why did we select this novel?
+  - See: [[Why did we select this novel?|example.gormenghast#Why-did-we-select-this-novel]]
 
 ### Results
 
-* See [[example.experiment]] for the outcomes of our attempts to apply the above logic to several "phenomena" in the novel.
-
-![[example.experiment]]
-
+- See [[example.experiment]] for the outcomes of our attempts to apply the above logic to several "phenomena" in the novel.
