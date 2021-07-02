@@ -2,16 +2,15 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis
 desc: ''
-updated: 1625208390163
+updated: 1625209794441
 created: 1624955696999
 ---
 
 ![[template.experiment]]
 
-
 ### Context
 
-Standard introduction for any tasks involving text analysis of *[[example.gormenghast]]*
+Standard introduction for any tasks involving text analysis of *[[Gormenghast|example.gormenghast]]*.
 
 #### Objectives
 
@@ -30,7 +29,6 @@ Standard introduction for any tasks involving text analysis of *[[example.gormen
   - Designers and artists can use the tool to support creative (re-)interpretations of the novel.
 - Implicitly invoked
   - [[The author|example.experiment.gormenghast]] and his unique set of experiences, biases, stylistic flourishes, etc.
-  - 
 
 #### Medium
 
@@ -47,3 +45,5 @@ Standard introduction for any tasks involving text analysis of *[[example.gormen
 ### Results
 
 * See [[example.experiment]] for the outcomes of our attempts to apply the above logic to several "phenomena" in the novel.
+
+![[example.experiment]]
