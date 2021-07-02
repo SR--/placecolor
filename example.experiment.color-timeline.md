@@ -2,15 +2,15 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1625040253330
+updated: 1625203712829
 created: 1624856251572
 ---
 
 ![Color timeline](/assets/images/color-frequencies.png)
 
 - [ ] Write explanation for the experiment
-- [ ] Output full timeline as a graph
-- [ ] Output full table as a .csv file
+- [ ] Output full timeline as a SVG graphic
+- [ ] Output full table as a CSV file
 - [ ] Include groups of colours with representative sentences as tables
 
 ### Context
@@ -29,15 +29,20 @@ created: 1624856251572
 
 #### Medium
 
-- The full text of the novel (unstructured text).
-- External sources, databases and techniques (lists of colors from thesauri, specialist databases, natural language processing libraries, etc.) [[used to re-interpret the novel|example.experiment.place-schema]].
-- 
+1. The full text of the novel (unstructured text).
+2. External sources, databases and techniques (lists of colors from thesauri, specialist databases, natural language processing libraries, etc.).
+3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|example.experiment.place-schema]].
 
 ### Methods
 
 - Why did we select this novel?
+  - See: [[example.gormenghast|example.gormenghast#Why-did-we-select-this-novel]]
+- 
 
-![[example.gormenghast#Why-did-we-select-this-novel:#Place-in-Gormenghast]]
+
+![[example.experiment.text-analysis]]
+
+
 
 - Provide a critical description of the novel in terms of colour 
 
