@@ -18,26 +18,29 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
 
 - Sense of place is formed through the interaction of memory (written or oral history, patterns of behavior, instinct, etc.) with the physical world
 - Formation of sense of place depends on the subjectivity of agents and their perceptual and cognitive capabilities (capacity to perceive and reflect upon the physical world)
+  - The cognitive capabilities of agents also dictate their ability to construct and interpret complex physical artefacts that enrich a sense of place
 
 ### Taxonomy of nonhuman place
 
 - [ ] Review and revise
 
-- Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
-  - Agents with varying degrees of agency (complexity)
-    - Landscape, e.g. forests, mountains
-    - Lifeforms, e.g. [[humans|character.human]], [[bees|character.bee]], [[mosses|character.moss]], amoeba, trees
-    - Phenomena, e.g. [[color|relationship.color]], light
-    - Natural forces, e.g. wind, tornadoes, waves
-- Cognitive capabilities, e.g. memory, language, writing
-  - Events
-    - Experienced
-      - Learned/instinctive behaviors, e.g. prey avoiding locations where they experience predators or animals recognizing areas rich in fruit
-      - Learned cultural practices, e.g. rituals or repeated behaviors performed and taught by both humans and nonhumans
-    - Recorded
-      - Written history
-      - Oral history
-      - Physical artefacts, e.g. cave paintings, rock formations, art
+- The physical world
+  - Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
+    - Agents with varying degrees of agency (complexity)
+      - Landscape, e.g. forests, mountains
+      - Lifeforms, e.g. [[humans|character.human]], [[bees|character.bee]], [[mosses|character.moss]], amoeba, trees
+      - Phenomena, e.g. [[color|relationship.color]], light
+      - Natural forces, e.g. wind, tornadoes, waves
+- The mental world
+  - Cognitive capabilities, e.g. memory, language, writing
+    - Events
+      - Experienced
+        - Learned/instinctive behaviors, e.g. prey avoiding locations where they experience predators or animals recognizing areas rich in fruit
+        - Learned cultural practices, e.g. rituals or repeated behaviors performed and taught by both humans and nonhumans
+      - Recorded
+        - Written histories
+        - Oral histories
+        - Physical artefacts, e.g. cave paintings, rock formations, art
 
 ## Examples
 
