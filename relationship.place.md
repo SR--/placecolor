@@ -6,16 +6,51 @@ updated: 1624454685182
 created: 1624432732155
 ---
 
-Place is a spatial/physical matrix that limits the formation of patterns but also as a cultural product that underlies group learning, behaviour, and ecosystems.
+- [x] Copy and integrate logic from the "Place & Color" article draft
+- [ ] Decide how to break this page into sections
 
-![](/assets/images/2021-06-23-22-38-13.png)
+## Definition
+
+Place is a spatial/physical matrix that limits the formation of patterns but also as a cultural product that underlies group learning, behavior, and ecosystems.
+
+- Place as a concept is difficult to define.[^1]
+- It has emerged from several different epistemologies.[^2]
+
+- Sense of place is formed through the interaction of memory (written or oral history, patterns of behavior, instinct, etc.) with the physical world
+- Formation of sense of place depends on the subjectivity of agents and their perceptual and cognitive capabilities (capacity to perceive and reflect upon the physical world)
+
+### Taxonomy of nonhuman place
+
+- [ ] Review and revise
+
+- Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
+  - Agents with varying degrees of agency (complexity)
+    - Landscape, e.g. forests, mountains
+    - Lifeforms, e.g. [[humans|character.human]], [[bees|character.bee]], [[mosses|character.moss]], amoeba, trees
+    - Phenomena, e.g. [[color|relationship.color]], light
+    - Natural forces, e.g. wind, tornadoes, waves
+- Cognitive capabilities, e.g. memory, language, writing
+  - Events
+    - Experienced
+      - Learned/instinctive behaviors, e.g. prey avoiding locations where they experience predators or animals recognizing areas rich in fruit
+      - Learned cultural practices, e.g. rituals or repeated behaviors performed and taught by both humans and nonhumans
+    - Recorded
+      - Written history
+      - Oral history
+      - Physical artefacts, e.g. cave paintings, rock formations, art
+
+## Examples
+
+![Formation of the solar system](/assets/images/2021-06-23-22-38-13.png)
 
 Formation and evolution of the solar system
 
->[w]e have at the present time a distorted mode of human presence upon the Earth. We are somehow failing in the fundamental role that we should be fulfilling—the role of enabling the Earth and the universe entire to reflect on and to celebrate themselves, and the deep mysteries they bear within them, in a special mode of conscious self-awareness. [^1]
+>[w]e have at the present time a distorted mode of human presence upon the Earth. We are somehow failing in the fundamental role that we should be fulfilling—the role of enabling the Earth and the universe entire to reflect on and to celebrate themselves, and the deep mysteries they bear within them, in a special mode of conscious self-awareness. [^3]
 
-![](/assets/images/2021-06-23-23-10-44.png)
+![The story of the universe in chapter titles](/assets/images/2021-06-23-23-10-44.png)
 
 The story of the universe in chapter titles
 
-[^1]: Swimme, Brian, and Thomas Berry. _The Universe Story: From the Primordial Flaring Forth to the Ecozoic Era—A Celebration of the Unfolding of the Cosmos_. New York: HarperCollins, 1992.
+[^1]: Tim Cresswell, *Place: A Short Introduction*, Short Introductions to Geography (Malden: Blackwell, 2004), 1.
+[^2]: Daniel R. Williams, “Making Sense of ‘Place’: Reflections on Pluralism and Positionality in Place Research,” *Landscape and Urban Planning* 131 (2014): 74–82, https://doi.org/10/f6mhzd.
+[^3]: Swimme, Brian, and Thomas Berry. _The Universe Story: From the Primordial Flaring Forth to the Ecozoic Era—A Celebration of the Unfolding of the Cosmos_. New York: HarperCollins, 1992.

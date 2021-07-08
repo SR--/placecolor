@@ -2,7 +2,7 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1625210511020
+updated: 1625648793737
 created: 1624856251572
 ---
 
@@ -15,9 +15,14 @@ created: 1624856251572
 
 ### Context
 
+- [[Place|relationship.place]] is a poorly defined concept
+- Physical phenomena (such as light and color) contribute 
 #### Objectives
 
-- Provide a tool for exploring the use of color in *Gormenghast*
+- Provide a tool/tools for exploring the use of color in *Gormenghast*
+  - Produce tables depicting frequency of color words (nouns and adjectives) and their position in the novel ("novel time")
+    - Provide a measure of relatedness between color words and other key terms in the novel
+  - Produce graphs that visualise this information
 
 #### Agents
 
@@ -37,7 +42,6 @@ created: 1624856251572
 
 ![[example.experiment.text-analysis]]
 
-- Provide a critical description of the novel in terms of colour 
 
 ### Results
 
