@@ -17,6 +17,10 @@ created: 1624856251572
 
 - [[Place|relationship.place]] is a poorly defined concept
 - Physical phenomena (such as light and color) contribute 
+- See also: 
+  - [[Taxonomy of nonhuman place|relationship.place#Taxonomy-of-nonhuman-place:#*]]
+  - 
+
 #### Objectives
 
 - Provide a tool/tools for exploring the use of color in *Gormenghast*
