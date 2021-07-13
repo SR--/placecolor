@@ -22,7 +22,7 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
 
 ### Taxonomy of nonhuman place
 
-- [ ] Review and revise
+- [ ] Review and revise @SR--
 
 - The physical world
   - Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]

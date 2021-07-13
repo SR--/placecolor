@@ -8,10 +8,10 @@ created: 1624856251572
 
 ![Color timeline](/assets/images/color-frequencies.png)
 
-- [ ] Write explanation for the experiment
-- [ ] Output full timeline as a SVG graphic
-- [ ] Output full table as a CSV file
-- [ ] Include groups of colours with representative sentences as tables
+- [ ] Write explanation for the experiment @wrdwllm
+- [ ] Output full timeline as a SVG graphic @wrdwllm
+- [ ] Output full table as a CSV file @wrdwllm
+- [ ] Include groups of colours with representative sentences as tables @wrdwllm
 
 ### Context
 
@@ -49,4 +49,10 @@ created: 1624856251572
 
 ### Results
 
+- State results here, include some images
+
 ### Discussion
+
+- Future uses by exhibition visitors, e.g. toolkit
+  - Topics for further research using this tool/logic from this tool/lessons, etc.
+  - Support creative action (designing, art) vs. scientific knowledge (replication)
