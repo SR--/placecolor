@@ -1,6 +1,6 @@
 ---
 id: JxVmP51RHsaoc3DC8cojU
-title: Physical properties of color
+title: Physical Properties of Color
 desc: ''
 updated: 1624844424790
 created: 1624351713774

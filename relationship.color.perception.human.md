@@ -1,6 +1,6 @@
 ---
 id: h8eNO16MFkDAD9s8wvhsw
-title: Human perception of color
+title: Human Perception of Color
 desc: ''
 updated: 1624928750239
 created: 1624453472853

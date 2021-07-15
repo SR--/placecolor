@@ -1,6 +1,6 @@
 ---
 id: fY1IaxfskZCKCL4cOn5eQ
-title: Language about colour
+title: Language about Color
 desc: ''
 updated: 1625013739138
 created: 1624351689985
