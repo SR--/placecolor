@@ -27,6 +27,11 @@ created: 1624856251572
   - Also include information from dictionaries about word origin, age, history, etc.
 - Explain named color data source
 
+- [ ] Produce CSV file with options to filter by chapter
+- [ ] Reformat ggplot2 graph
+  - [ ] Output one graph for each book
+
+
 ### Context
 
 - [[Place|relationship.place]] is a poorly defined concept
