@@ -2,7 +2,7 @@
 id: mEFZkB9jojKnPjm20eVbv
 title: Senses
 desc: ''
-updated: 1627992099104
+updated: 1628061713873
 created: 1627981455585
 ---
 Color is one of the senses. But what are senses?
