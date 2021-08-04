@@ -13,6 +13,7 @@ created: 1624856251572
 - [ ] Output full table as a CSV file @wrdwllm
 - [ ] Include groups of colours with representative sentences as tables @wrdwllm
 - [ ] Draft examples/images from list of ideas @wrdwllm
+- [ ] Embed GIFS of screen captures for examples that are not fully interactive @wrdwllm
 
 <p></p>
 
