@@ -28,7 +28,7 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
   - Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
     - Agents with varying degrees of agency (complexity)
       - Landscape, e.g. forests, mountains
-      - Lifeforms, e.g. [[humans|character.human]], [[bees|character.bee]], [[mosses|character.moss]], amoeba, trees
+      - Lifeforms, e.g. [[humans|portrait.character.species.human]], [[bees|portrait.character.species.bee]], [[mosses|portrait.character.species.moss]], amoeba, trees
       - Phenomena, e.g. [[color|relationship.color]], light
       - Natural forces, e.g. wind, tornadoes, waves
 - The mental world
