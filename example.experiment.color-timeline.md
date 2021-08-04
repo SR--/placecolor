@@ -2,7 +2,7 @@
 id: sxoMh5lZM-rsHlEtHEL1y
 title: 'Experiment: Color Timeline'
 desc: ''
-updated: 1625648793737
+updated: 1628042069362
 created: 1624856251572
 ---
 
@@ -28,6 +28,7 @@ created: 1624856251572
   - Also include information from dictionaries about word origin, age, history, etc.
 - Explain named color data source
 
+
 - [ ] Produce CSV file with options to filter by chapter
 - [ ] Reformat ggplot2 graph
   - [ ] Output one graph for each book
@@ -39,7 +40,7 @@ created: 1624856251572
 - Physical phenomena (such as light and color) contribute 
 - See also: 
   - [[Taxonomy of nonhuman place|relationship.place#Taxonomy-of-nonhuman-place:#*]]
-  - 
+
 
 #### Objectives
 
