@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628063750994
+updated: 1628066017075
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -10,6 +10,18 @@ Potential cross references: color vision, bee, etc.
 ![](/assets/images/2021-08-04-17-54-51.png)
 
 [The Karner Blue Butterfly](https://modernconservationist.com/forgotten-endangered-species-karner-blue-butterfly/)
+
+![](/assets/images/2021-08-04-18-22-03.png)
+
+[Blue Dunes on the Red Planet](https://www.nasa.gov/image-feature/blue-dunes-on-the-red-planet) Image Credit: NASA/JPL-Caltech/ASU
+
+>A sea of dark dunes, sculpted by the wind into long lines, surrounds Mars' northern polar cap and covers an area as big as Texas. In this false-color image, areas with cooler temperatures are recorded in bluer tints, while warmer features are depicted in yellows and oranges.
+
+![](/assets/images/2021-08-04-18-32-40.png)
+
+[The Blue Marble](https://visibleearth.nasa.gov/images/2181/the-blue-marble/2182l)
+
+>Using a collection of satellite images and data, scientists and visualizers stitched together months of observations of Earth’s land surface, oceans, sea ice, and clouds into a seamless, true-color mosaic.
 
 ## Natural History of Blue
 
