@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628145488365
+updated: 1628147762415
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -48,6 +48,23 @@ Potential cross references: color vision, bee, etc.
 
 ### Blue in the Eyes of Nonhuman Agents
 
+Butterflies
+
+[Why Do Butterflies Have Such Vibrant Colors and Patterns?](https://www.nationalgeographic.com/animals/article/150307-butterflies-caterpillars-colors-predators-prey-animals-science)
+
+Reasons for their color:
+
+- Hiding From Predators
+- Sending a Warning
+- Attracting a Mate
+- Keeping Warm
+
+Consider nonhuman aesthetic reasons such as sexual selection... Link to evo-devo. Link to geographic co-evolution and therefore place. Link to evolutionary innovation.
+
+>- Beldade, Patrícia, and Paul M. Brakefield. “The Genetics and Evo–Devo of Butterfly Wing Patterns.” _Nature Reviews Genetics_ 3, no. 6 (2002): 442–52. https://doi.org/10/bqxssb.
+>- Brakefield, Paul M., and Vernon French. “Butterfly Wings: The Evolution of Development of Colour Patterns.” _BioEssays_ 21, no. 5 (1999): 391–401. https://doi.org/10/btw9bq.
+>- Wagner, Andreas. _The Origins of Evolutionary Innovations: A Theory of Transformative Change in Living Systems_. Oxford: Oxford University Press, 2011.
+>- Thompson, John N. _The Geographic Mosaic of Coevolution. Interspecific Interactions_. Chicago: University of Chicago Press, 2005.
 
 ### Blue Stories
 
