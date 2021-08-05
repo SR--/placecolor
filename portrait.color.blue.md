@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628128264408
+updated: 1628145471173
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -64,5 +64,7 @@ Potential cross references: color vision, bee, etc.
 [There's Evidence Humans Didn't Actually See Blue Until Modern Times](https://www.sciencealert.com/humans-didn-t-see-the-colour-blue-until-modern-times-evidence-science)
 
 [No one could see the colour blue until modern times](https://www.businessinsider.com.au/what-is-blue-and-how-do-we-see-color-2015-2)
+
+[The 6,000-Year History of Blue Pigments in Art](ttps://www.artsy.net/article/artsy-editorial-a-brief-history-of-blue)
 
 - [ ] Review the 'blue' note and add? @swampwitch
