@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628128220761
+updated: 1628128264408
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -65,4 +65,4 @@ Potential cross references: color vision, bee, etc.
 
 [No one could see the colour blue until modern times](https://www.businessinsider.com.au/what-is-blue-and-how-do-we-see-color-2015-2)
 
-- [ ] Review the 'blue' note and add? @s
+- [ ] Review the 'blue' note and add? @swampwitch
