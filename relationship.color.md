@@ -1,10 +1,10 @@
-**-
+---
 id: X7YILmRs4-us6j0Cqr8mB
 title: Color
 desc: ''
-updated: 1628146410088
+updated: 1628167703173
 created: 1624349510689
-**-
+---
 
 - [ ] Discuss and expand from notes
 
@@ -32,6 +32,16 @@ To illustrate:
 
 >- Eastaugh, Nicholas. _The Pigment Compendium: A Dictionary of Historical Pigments_. Amsterdam: Elsevier Butterworth-Heinemann, 2004.
 >- Feller, Robert L., Ashok Roy, Elisabeth West FitzHugh, and Barbara Hepburn Berrie, eds. _Artists’ Pigments: A Handbook of Their History and Characteristics_. Washington: National Gallery of Art, 1986.
+
+## Users of Color
+
+### Living Creatures
+
+>- Humphrey, Nicholas. “The Colour Currency in Nature.” In _Colour for Architecture Today_, edited by Tom Porter, Byron Mikellides, and Terry Farrell, 1–12. London: Taylor & Francis, 2009. This is a pretty simplistic account but is an example of what exists. Refers to [[portrait.color.red]]
+### Architecture and Design
+
+>- Porter, Tom, Byron Mikellides, and Terry Farrell, eds. _Colour for Architecture Today_. London: Taylor & Francis, 2009.
+
 
 
 - [ ] List some interesting historical pigments as example. Link to 'portraits' @SR--

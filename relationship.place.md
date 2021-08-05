@@ -2,7 +2,7 @@
 id: DGuctHcDOTFbZtytqe-Rw
 title: Place
 desc: ''
-updated: 1624454685182
+updated: 1628168871712
 created: 1624432732155
 ---
 
@@ -41,6 +41,11 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
         - Written histories
         - Oral histories
         - Physical artefacts, e.g. cave paintings, rock formations, art
+
+
+## Place and Color
+
+>- Hough, Carole. “Colours of the Landscape: Old English Colour Terms in Place-Names.” In _Progress in Colour Studies: Volume I. Language and Culture_, edited by C. P. Biggam and Christian Kay, 181–98. Amsterdam: J. Benjamins, 2006.
 
 ## Examples
 
