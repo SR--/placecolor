@@ -1,8 +1,8 @@
 ---
 id: sxoMh5lZM-rsHlEtHEL1y
-title: 'Experiment: Color Timeline'
+title: ' Color Timeline'
 desc: ''
-updated: 1628042069362
+updated: 1628165178473
 created: 1624856251572
 ---
 
@@ -61,11 +61,11 @@ created: 1624856251572
 
 1. The full text of the novel (unstructured text).
 2. External sources, databases and techniques (lists of colors from thesauri, specialist databases, natural language processing libraries, etc.).
-3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|example.experiment.place-schema]].
+3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|experiment.place-schema]].
 
 ### Methods
 
-![[example.experiment.text-analysis]]
+![[experiment.text-analysis]]
 
 
 ### Results

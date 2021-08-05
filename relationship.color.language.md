@@ -25,7 +25,7 @@ Lindsay and Brown, "Within-language diversity in color naming. (A) Diversity in 
 
 ### Colour in literature
 
-![[example.experiment.color-timeline]]
+![[experiment.color-timeline]]
 
 - [ ] Include excerpts from *Gormenghast* about colour
 

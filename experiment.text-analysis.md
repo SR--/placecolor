@@ -39,7 +39,7 @@ Standard introduction for any tasks involving text analysis of *[[Gormenghast|ex
 
   1. The full text of the novel (unstructured text).
   2. External sources, databases and techniques (lists of colors from thesauri, specialist databases, natural language processing libraries, etc.).
-  3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|example.experiment.place-schema]].
+  3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|experiment.place-schema]].
 
 ### Methods
 

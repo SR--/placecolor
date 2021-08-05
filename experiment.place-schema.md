@@ -1,6 +1,6 @@
 ---
 id: '-L5ELiywD9GoPXVtIi4Ei'
-title: 'Experiment: Place Schema'
+title: ' Place Schema'
 desc: ''
 updated: 1624928030439
 created: 1624857689625

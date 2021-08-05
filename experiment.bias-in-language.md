@@ -1,6 +1,6 @@
 ---
 id: ikZLzE-I-o1vQjJJmqtni
-title: 'Experiment: Bias in Language'
+title: ' Bias in Language'
 desc: ''
 updated: 1624934069233
 created: 1624868888561

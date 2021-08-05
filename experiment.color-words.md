@@ -1,6 +1,6 @@
 ---
 id: FOOGYt5anR92zgSTW6qCD
-title: 'Experiment: Color Words'
+title: ' Color Words'
 desc: ''
 updated: 1624934078674
 created: 1624870395618
