@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628147762415
+updated: 1628426936741
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
