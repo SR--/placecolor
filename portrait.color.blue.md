@@ -27,7 +27,7 @@ Potential cross references: color vision, bee, etc.
 
 
 ## Cultural History of Blue
-
+>“‘Dat zijn maar blauwe bloempjes’ - ‘Those are nothing but blue flowers.’ In which case ‘blue flowers’ means a pack of bald-faced lies.” - Maggie Nelson, Bluets. 45
 
 ## Blue in Human Language
 
