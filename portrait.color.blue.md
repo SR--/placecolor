@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1628426936741
+updated: 1628775549389
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -36,8 +36,18 @@ Potential cross references: color vision, bee, etc.
 - By place
 - By language
 - By use
+- By origin, emphasise the colors borrowed from plants and animals. As species disappear, will the colors lose reference? Do the contemporary tables of colors replace the role of named colors?
 - Etc.
 
+In naming colors, human imagination refers to things: materials, pigments, stones, animals, flowers, sky...
+
+- azury: Blue, bluish, tinted with soft clear blue. 1600
+- lazuline: Of the colour of lapis lazuli. 1877
+- violaceous: Of a violet colour; purplish blue. 1657
+- perse: Of a dark blue, bluish-grey, or (esp. in later use) purplish black colour. 1425
+- pavonaceous: Of the blue-green colour of a peacock's breast. 1688
+- cerulean: Of the colour of the cloudless sky, pure deep blue, azure. 1677 And cerulescent: Tending to cerulean. 1880
+- livid: Of a bluish- or purplish-grey colour. a1425
 
 ## Blue in Use
 
