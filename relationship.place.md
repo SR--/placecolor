@@ -49,6 +49,17 @@ Is it necessary for a living being to experience a place for it to be a place?
 Even if it is necessary, there is a wide variety in which living beings can engage with places, where those places are, how long they persist, etc.
 
 ![[dendron://placecolor/portrait.character.taxon.planarian]]
+
+### Living Beings Making Places
+
+- Whales creating whole ocean ecosystems through pumping watch and organic depositions.
+
+>- Demuth, Bathsheba. _Floating Coast: An Environmental History of the Bering Strait_. New York: W.W. Norton, 2019.
+
+- Bison acting on the scale of seasonal changes when they originate and maintain the 'green wave' or an endless spiring the same way other species ride it. [What America Lost When It Lost the Bison](https://www.theatlantic.com/science/archive/2019/11/how-bison-create-spring/602176/)
+
+>- Geremia, Chris, Jerod A. Merkle, Daniel R. Eacker, Rick L. Wallen, P. J. White, Mark Hebblewhite, and Matthew J. Kauffman. “Migrating Bison Engineer the Green Wave.” _Proceedings of the National Academy of Sciences_ 116, no. 51 (2019): 25707–13. https://doi.org/10/gjm32b.
+
 ## Place and Color
 
 >- Hough, Carole. “Colours of the Landscape: Old English Colour Terms in Place-Names.” In _Progress in Colour Studies: Volume I. Language and Culture_, edited by C. P. Biggam and Christian Kay, 181–98. Amsterdam: J. Benjamins, 2006.
