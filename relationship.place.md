@@ -2,7 +2,7 @@
 id: DGuctHcDOTFbZtytqe-Rw
 title: Place
 desc: ''
-updated: 1628168871712
+updated: 1629078494778
 created: 1624432732155
 ---
 
@@ -28,7 +28,7 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
   - Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
     - Agents with varying degrees of agency (complexity)
       - Landscape, e.g. forests, mountains
-      - Lifeforms, e.g. [[humans|portrait.character.species.human]], [[bees|portrait.character.species.bee]], [[mosses|portrait.character.species.moss]], amoeba, trees
+      - Lifeforms, e.g. [[humans|portrait.character.taxon.human]], [[bees|portrait.character.taxon.bee]], [[mosses|portrait.character.taxon.moss]], amoeba, trees
       - Phenomena, e.g. [[color|relationship.color]], light
       - Natural forces, e.g. wind, tornadoes, waves
 - The mental world
@@ -42,7 +42,13 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
         - Oral histories
         - Physical artefacts, e.g. cave paintings, rock formations, art
 
+## Place and Living Beings
 
+Is it necessary for a living being to experience a place for it to be a place?
+
+Even if it is necessary, there is a wide variety in which living beings can engage with places, where those places are, how long they persist, etc.
+
+![[dendron://placecolor/portrait.character.taxon.planarian]]
 ## Place and Color
 
 >- Hough, Carole. “Colours of the Landscape: Old English Colour Terms in Place-Names.” In _Progress in Colour Studies: Volume I. Language and Culture_, edited by C. P. Biggam and Christian Kay, 181–98. Amsterdam: J. Benjamins, 2006.
