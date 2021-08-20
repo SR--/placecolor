@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1629463797855
+updated: 1629465397648
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -24,6 +24,23 @@ Potential cross references: color vision, bee, etc.
 >Using a collection of satellite images and data, scientists and visualizers stitched together months of observations of Earth’s land surface, oceans, sea ice, and clouds into a seamless, true-color mosaic.
 
 ## Natural History of Blue
+
+![](/assets/images/2021-08-20-23-10-40.png)
+
+Iridescence changing with the angle of light.
+
+![](/assets/images/2021-08-20-23-15-50.png)
+
+Phylogeny of the genus Morpho, showing the right wings of males and females. U = Understory and C = Canopy.
+
+Why are _Morpho_ butterflies blue?
+Why are some _Morpho_ not blue?
+
+>- Debat, Vincent, Serge Berthier, Patrick Blandin, Nicolas Chazot, Marianne Elias, Doris Gomez, and Violaine Llaurens. “Why Are Morpho Blue?” In _Biodiversity and Evolution_, edited by Philippe Grandcolas and Marie-Christine Maurel, 139–74. Elsevier, 2018.
+
+>Color diversity in animals is often discussed in terms of signals received by predators and/or sexual partners or competitors. Butterfly coloration is therefore generally considered first and foremost as a visual signal, both on an inter- and intra-specific level. Other selective pressures act on coloration: butterfly wing scales are also involved in thermoregulation and hydrophobia.
+
+>Despite their iconic status, Morpho remain relatively unknown especially for the evolution of their coloration. While their phylogeny is well established and the nano-structural basis of their color fully identified, the ecological and genetic factors of these traits are almost entirely unexplored. The hypotheses commonly called upon to explain the evolution of the iridescent blue color, whether in terms of sexual selection or escape from predators, have never been explicitly tested. These gaps leave us with a number of open questions: are non-blue species subject to different selective pressures (thermoregulation, hydrophobia, predation, communication)? Do they fly more slowly or simply in a different way than their blue relatives? Are there, within each species, differences in flight behavior between sexes? In the hypothesis regarding the importance of blue as a sexual signal, do Morpho show evidence of particular visual receptors? Are they sensitive to polarized light? All of these questions require experiments to be carried out that would allow us to study flight modalities and numerous behavioral traits. But they point above all, despite more than a century of collecting, toward the lack of understanding of the ecology of Morpho.
 
 ## Cultural History of Blue
 
