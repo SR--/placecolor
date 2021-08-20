@@ -11,7 +11,7 @@ created: 1625021121277
 - [ ] Write commentary and discussion based on renders and lessons from the other experiments
 
 
-![[template.experiment]]
+![[admin.template.experiment]]
 ## Project Description
 
 ### Context

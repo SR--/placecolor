@@ -1,6 +1,6 @@
 ---
 id: WABeg4oZlOydEapBvDzcq
-title: 'Experiment Template'
+title: Experiment Template
 desc: ''
 updated: 1624947870453
 created: 1624454386416

@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1629462672638
+updated: 1629463797855
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -25,7 +25,6 @@ Potential cross references: color vision, bee, etc.
 
 ## Natural History of Blue
 
-
 ## Cultural History of Blue
 
 Blues history is rich with equivocal conjecture.
@@ -35,6 +34,7 @@ In Homer’s Odyssey, there are many references to white and black, essentially 
 >“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” - Goethe, Johann Wolfgan von. Theory of Colours, 1810.
 
 The deep and void-like quality similar to the darkness that Goethe describes, is unlike the quality desired by Yves Kleins  International Klein Blue. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
+
 ## Blue in Human Language
 
 >“‘Dat zijn maar blauwe bloempjes’ - ‘Those are nothing but blue flowers.’ In which case ‘blue flowers’ means a pack of bald-faced lies.” - Maggie Nelson, Bluets. 45
