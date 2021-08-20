@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1629465397648
+updated: 1629465643617
 created: 1628061941517
 ---
 Potential cross references: color vision, bee, etc.
@@ -116,7 +116,7 @@ Consider nonhuman aesthetic reasons such as sexual selection... Link to evo-devo
 
 ### Blue Stories
 
-
+<!-- Maybe just links to the story notes here? -->
 ## References and Examples
 
 >- Nelson, Maggie. _Bluets_. Seattle: Wave Books, 2009.
