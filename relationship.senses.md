@@ -2,7 +2,7 @@
 id: mEFZkB9jojKnPjm20eVbv
 title: Senses
 desc: ''
-updated: 1628061713873
+updated: 1629272322785
 created: 1627981455585
 ---
 Color is one of the senses. But what are senses?
@@ -40,3 +40,18 @@ Cohen's eco-psychological senses (53) come in four groups:
 - The feeling senses: sensitivity to gravity, air and wind pressure, and motion.
 - The chemical senses: hormonal sense, such as pheromones, hunger for food, water or air.
 - The mental senses: pain, external and internal, mental or spiritual distress, sense of self, including friendship, companionship and power, psychic capacity.
+
+## Compound, Overlapping or Confused Senses
+
+- Biases
+- Illusions
+- Delusions
+- Misconceptions
+- Habits
+- Traditions
+- Phobias
+    - Agoraphobia: fear and avoidance of places
+    - Claustrophobia: fear of enclosed spaces
+- Philias
+
+>- Sacks, Oliver. _The Man Who Mistook His Wife for a Hat and Other Clinical Tales_. New York: Simon & Schuster, 1998.
