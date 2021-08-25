@@ -48,7 +48,9 @@ Blues history is rich with equivocal conjecture.
 
 In Homer’s Odyssey, there are many references to white and black, essentially the albedo scale, in order to describe place and their objects. Reference to colour barely occurs, only in smatterings of red and yellow but with no mention of blue. Similar to the linguistic trend that philologist Lazarus Geiger, and theorist Berlin and Kay also recognise in human cultures across the globe. Blue has been attributed an array of meanings from wealth to Mother Mary’s purity to the police to everyday blue collar workers and the bibliothèque bleue (blue library), as well as the crass blue slang and blue boys to name a few.
 
->“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” - Goethe, Johann Wolfgan von. Theory of Colours, 1810.
+>“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” 
+
+>- Goethe, Johann Wolfgan von. _Theory of Colours_, 1810.
 
 The deep and void-like quality desired by Yves Kleins synthetic version of ultramarine is similar to blues  principle of darkness that Goethe describes. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
 
@@ -62,7 +64,7 @@ The deep and void-like quality desired by Yves Kleins synthetic version of ultra
 
 The way humans see colour is dependent on their language, or lack thereof. Since without the words to describe the spectrum of visual light one might be aware of the quality of colours like “blue” but not yet have a word to describe it. Throughout a plethora of ancient human cultures studied by philologist Lazarus Geiger, colour words as descriptors of place appeared to be absent especially when concerning blue.
 
-This linguistic relativity of colour and perception may have to do with the blue-green distinction, which many languages still colexify instances such of colour. However development of linguistic distinctions of colour may have more to do with the cultural uses and availability of coloured pigments in visual practices art and realist representations of place and colour. Regarding the differentiation of colour, colour theorists Berlin and Kay came up with a universal proposal for the distinction and development of colour terms throughout human cultures at large, stage one includes dark-cool and light-warm shades and blue comes in only at stage five following red, yellow and green. Initially their research was dismissed as western centric, which lead to them reviewing and expanding to an even greater study group of ancient cultures across the globe. 
+This linguistic relativity of colour and perception may have to do with the blue-green distinction, which many languages still colexify instances such of colour. However development of linguistic distinctions of colour may have more to do with the cultural uses and availability of coloured pigments in visual practices of art and their realist representations of place and colour. Regarding the differentiation of colour, colour theorists Berlin and Kay came up with a universal proposal for the distinction and development of colour terms throughout human cultures at large, stage one includes dark-cool and light-warm shades and blue comes in only at stage five following red, yellow and green. Initially their research was dismissed as western centric, which lead to them reviewing and expanding to an even greater study group of ancient cultures across the globe. 
 
 >- Berlin, Brent, and Paul Kay. _Basic Color Terms: Their Universality and Evolution_. 1969. Reprint, Berkeley: University of California Press, 1991.
 
@@ -91,9 +93,25 @@ In naming colors, human imagination refers to things: materials, pigments, stone
 - livid: Of a bluish- or purplish-grey colour. a1425
 
 ## Blue in Use
+>Ultramarine  etymology < medieval Latin ultrāmarīnus, < Latin ultrā beyond + mare sea
 
+Lapis lazuli is a semi-precious stone, which usually occurs in the high altitudes of alpine regions are inhospitable to humans, making the eleven deposits identified across the globe difficult to access and fraught with poor working conditions. Since ancient times deposits have been known in what is now considered Afghanistan, Siberia and Chile. Later in the 20th century deposits have been discovered in North America, as well as smaller deposits in Italy, Myanmar and Pakistan.
 
+>“Among these, the Sar-e-Sang lapis lazuli mines in the Badakhshan region of Afghanistan have been exploited to the greatest extent since ancient times due to the high purity of the extracted mineral. In Siberia, the lapis mines are located on the southern shore of Lake Baikal; the Slyudyanka quarry is the most heavily exploited of these, and the diffusion of Siberian lapis lazuli into Western countries started around the end of the eighteenth century. The Chilean lapis lazuli mine “Flor de los Andes” is located in the region of Coquimbo, at an altitude of more than 3500 m in the Andes Cordillera. The Afghan and Siberian lapis lazuli are similar in terms of color homogeneity and purity, while the Chilean lapis lazuli has a shallower blue tone and is less pure.” (Favaro, et al.)
+
+In a study of three renaissance paintings the provenance of lapis lazuli pigments were determined by the minerals composition using Xray diffractometry patterns. Due to the unique nature of lazurite stones the provenance of lapis lazuli pigments in 14th and 16th century art can be deduced, revealing the routes of trade from quarries in Afghanistan, Siberia and Chile. 
+
+![](assets/images/provenance_lapislazuli.png)
+
+>- Favaro, M. A. Guastoni, F. Marini, S. Bianchi, A. Gambirasi. Characterisation of lapis lazuli and corresponding purified pigments for a provenance study of ultramarine pigments used in works of art, Published online, 29 December 2011.
+
+The purified pigment remained in favour up until the 19th Century when a synthetic variety known as ‘Goethe’ or ‘Prussian blue’ was fabricated. The exploitation of the corresponding landscapes and cultures neighbouring lapis lazuli deposits highlights the favour of the pigment,since during the 17th century, conservator Abbie Vandivere notes "it was more valuable than gold." 
 ### Blue Places
+The Blue Mountain (Koh-e-Laguard) of the Sar-e-Sang mines in East Afghanistan 
+- Mined since 6,000 BC
+- Highest quality lazurite, few calcite and pyrite impurities 
+- Contested land with complex geopolitics
+
 
 
 ### Blue in the Eyes of Nonhuman Agents
