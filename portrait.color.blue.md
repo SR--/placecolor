@@ -50,7 +50,11 @@ In Homer’s Odyssey, there are many references to white and black, essentially 
 
 >“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” - Goethe, Johann Wolfgan von. Theory of Colours, 1810.
 
-The deep and void-like quality similar to the darkness that Goethe describes, is unlike the quality desired by Yves Kleins  International Klein Blue. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
+The deep and void-like quality desired by Yves Kleins synthetic version of ultramarine is similar to blues  principle of darkness that Goethe describes. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
+
+>- Favaro, M. A. Guastoni, F. Marini, S. Bianchi, A. Gambirasi. "Characterisation of lapis lazuli and corresponding purified pigments for a provenance study of ultramarine pigments used in works of art". Published online, 29 December 2011.
+
+>- Pister, Patricia. "Deep Blue Geomeditations : Following Lapis Lazuli in Three Ecological Assemblages". SubStance, Volume 47, Number 2 (Issue 146) : John Hopkins University Press, 2018. 
 
 ## Blue in Human Language
 
@@ -58,11 +62,9 @@ The deep and void-like quality similar to the darkness that Goethe describes, is
 
 The way humans see colour is dependent on their language, or lack thereof. Since without the words to describe the spectrum of visual light one might be aware of the quality of colours like “blue” but not yet have a word to describe it. Throughout a plethora of ancient human cultures studied by philologist Lazarus Geiger, colour words as descriptors of place appeared to be absent especially when concerning blue.
 
-(Layarus Geiger, 1871, Zur Entwicklungsgeschichte der Menschheit)
-
 This linguistic relativity of colour and perception may have to do with the blue-green distinction, which many languages still colexify instances such of colour. However development of linguistic distinctions of colour may have more to do with the cultural uses and availability of coloured pigments in visual practices art and realist representations of place and colour. Regarding the differentiation of colour, colour theorists Berlin and Kay came up with a universal proposal for the distinction and development of colour terms throughout human cultures at large, stage one includes dark-cool and light-warm shades and blue comes in only at stage five following red, yellow and green. Initially their research was dismissed as western centric, which lead to them reviewing and expanding to an even greater study group of ancient cultures across the globe. 
 
->- Berlin, Brent, and Paul Kay. Basic Color Terms: Their Universality and Evolution. 1969. Reprint, Berkeley: University of California Press, 1991.
+>- Berlin, Brent, and Paul Kay. _Basic Color Terms: Their Universality and Evolution_. 1969. Reprint, Berkeley: University of California Press, 1991.
 
 In order to measure the different nuances of blue in the sky a scientist from the eighteenth century, Horace-Benedict de Saussure invented the cyanometer, which consisted of 53 swatches of blue.
 
