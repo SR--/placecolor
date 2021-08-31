@@ -2,10 +2,10 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1629465643617
+updated: 1630422189921
 created: 1628061941517
 ---
-Potential cross references: color vision, bee, etc.
+Potential cross references: color vision, [[portrait.character.taxon.bee]], etc.
 
 ![](/assets/images/2021-08-04-17-54-51.png)
 
@@ -55,7 +55,6 @@ In Homer’s Odyssey, there are many references to white and black, essentially 
 The deep and void-like quality desired by Yves Kleins synthetic version of ultramarine is similar to blues  principle of darkness that Goethe describes. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
 
 >- Favaro, M. A. Guastoni, F. Marini, S. Bianchi, A. Gambirasi. "Characterisation of lapis lazuli and corresponding purified pigments for a provenance study of ultramarine pigments used in works of art". Published online, 29 December 2011.
-
 >- Pister, Patricia. "Deep Blue Geomeditations : Following Lapis Lazuli in Three Ecological Assemblages". SubStance, Volume 47, Number 2 (Issue 146) : John Hopkins University Press, 2018. 
 
 ## Blue in Human Language
@@ -72,7 +71,7 @@ In order to measure the different nuances of blue in the sky a scientist from th
 
 ![](/assets/images/Night-2018-03-13_016.jpeg)
 
-[Elise Rasmussen, Did You Know Blue Had No Name ?](https://images.squarespace-cdn.com/content/v1/50c635fde4b0cd7ca3dc008f/1590108608115-4F44LJW3OFCWC83U9ZYL/Night-2018-03-13_016.jpg?format=2500w)
+[Elise Rasmussen, Did You Know Blue Had No Name?](https://images.squarespace-cdn.com/content/v1/50c635fde4b0cd7ca3dc008f/1590108608115-4F44LJW3OFCWC83U9ZYL/Night-2018-03-13_016.jpg?format=2500w)
 
 ### Types of Blue
 
@@ -93,6 +92,7 @@ In naming colors, human imagination refers to things: materials, pigments, stone
 - livid: Of a bluish- or purplish-grey colour. a1425
 
 ## Blue in Use
+
 >Ultramarine  etymology < medieval Latin ultrāmarīnus, < Latin ultrā beyond + mare sea
 
 Lapis lazuli is a semi-precious stone, which usually occurs in the high altitudes of alpine regions are inhospitable to humans, making the eleven deposits identified across the globe difficult to access and fraught with poor working conditions. Since ancient times deposits have been known in what is now considered Afghanistan, Siberia and Chile. Later in the 20th century deposits have been discovered in North America, as well as smaller deposits in Italy, Myanmar and Pakistan.
@@ -105,14 +105,14 @@ In a study of three renaissance paintings the provenance of lapis lazuli pigment
 
 >- Favaro, M. A. Guastoni, F. Marini, S. Bianchi, A. Gambirasi. Characterisation of lapis lazuli and corresponding purified pigments for a provenance study of ultramarine pigments used in works of art, Published online, 29 December 2011.
 
-The purified pigment remained in favour up until the 19th Century when a synthetic variety known as ‘Goethe’ or ‘Prussian blue’ was fabricated. The exploitation of the corresponding landscapes and cultures neighbouring lapis lazuli deposits highlights the favour of the pigment,since during the 17th century, conservator Abbie Vandivere notes "it was more valuable than gold." 
+The purified pigment remained in favour up until the 19th Century when a synthetic variety known as ‘Goethe’ or ‘Prussian blue’ was fabricated. The exploitation of the corresponding landscapes and cultures neighbouring lapis lazuli deposits highlights the favour of the pigment,since during the 17th century, conservator Abbie Vandivere notes "it was more valuable than gold."
+
 ### Blue Places
-The Blue Mountain (Koh-e-Laguard) of the Sar-e-Sang mines in East Afghanistan 
+
+The Blue Mountain (Koh-e-Laguard) of the Sar-e-Sang mines in East Afghanistan
 - Mined since 6,000 BC
-- Highest quality lazurite, few calcite and pyrite impurities 
+- Highest quality lazurite, few calcite and pyrite impurities
 - Contested land with complex geopolitics
-
-
 
 ### Blue in the Eyes of Nonhuman Agents
 
@@ -134,18 +134,13 @@ Consider nonhuman aesthetic reasons such as sexual selection... Link to evo-devo
 >- Wagner, Andreas. _The Origins of Evolutionary Innovations: A Theory of Transformative Change in Living Systems_. Oxford: Oxford University Press, 2011.
 >- Thompson, John N. _The Geographic Mosaic of Coevolution. Interspecific Interactions_. Chicago: University of Chicago Press, 2005.
 
-
 Satin Bowerbird
 
-- Scientific name : Ptilonorhynchus violaceus
-
-- Family :  Ptilonorhynchidae
-
-- Class : Aves
-
-- Kingdom : Animalia
-
-- Order : Passeriformes
+- Scientific name: _Ptilonorhynchus violaceus_
+- Family:  Ptilonorhynchidae
+- Class: Aves
+- Kingdom: Animalia
+- Order: Passeriformes
 
 Endemic to Eastern Australia
 Lifespan 20 - 30 years (the longest lived passerine)
@@ -156,32 +151,27 @@ Blue is something of a rarity in nature, however the Satin Bowerbird is now spoi
 
 >“Blue flowers, blue shells, the blue feathers of rollers of parakeets. Sometimes they paint the things with blue pigment that they grind up from fruit pulp with their beaks. Nowadays they raid picnic tables up to ten miles away if they see readymade blue decorations. What I thought was litter turned out to be my first discovery of the origins of art, the material of a creative process millions of years older than the ancient cave paintings of Lascaux.” (Rothenburg : 2011)
 
-Rothenburg highlights in his work the role aesthetics play sexual attraction, and the way pattern and colour inform notions and evolutions of beauty within nature. 
+Rothenburg highlights in his work the role aesthetics play sexual attraction, and the way pattern and colour inform notions and evolutions of beauty within nature.
 
-
-Bower Architecture 
-
+Bower Architecture
 
 Bowers might be described as a “trysting place” as they are meticulously constructed with a plethora of materials and objects into sculptural form designed specifically to attract a mate. Nests for brooding are separate to the frivolities of the bower and constructed up in trees. Gould and Gould draw comparisons between this aesthetically indulgent work of the bower to that of humans, inferring that such conditions that enable this artistic and sexual fixation are having few predators, competition for food and a long or continuous breeding season much alike conditions that kindle creativity within human cultures. (Gould : 222). 
 
-Why build ? 
+Why build?
+
 - attraction
 - reproduction
 - arts for arts sake 
 
-Requires :
+Requires:
+
 - Cognition of multiple perspectives  
 - Flexibility of materials and parameters of design
 
 Bower birds are found in Australia and New Guinea, different varieties of them use colours other than blue to attract a mate, such as the Spotted Bowerbird, which collects an assortment of light and dark objects to decorate their bower. (Hansell : 217)
 
-
 >- Rothenburg, David. Survival of the Beautiful: Art, Science, and Evolution, London: Bloomsbury, 2011.
-
-
 >- Hansell, Mike. Built by Animals: The Natural History of Animal Architecture, Oxford University Press, 2007, 216 - 251.
-
-
 >- Gould, James. L, Gould, Grant Carol. Animal Architects : Building and the Evolution of Intelligence, Basic Books, 2007. 221 - 250.
 
 ### Blue Stories
