@@ -134,6 +134,56 @@ Consider nonhuman aesthetic reasons such as sexual selection... Link to evo-devo
 >- Wagner, Andreas. _The Origins of Evolutionary Innovations: A Theory of Transformative Change in Living Systems_. Oxford: Oxford University Press, 2011.
 >- Thompson, John N. _The Geographic Mosaic of Coevolution. Interspecific Interactions_. Chicago: University of Chicago Press, 2005.
 
+
+Satin Bowerbird
+
+- Scientific name : Ptilonorhynchus violaceus
+
+- Family :  Ptilonorhynchidae
+
+- Class : Aves
+
+- Kingdom : Animalia
+
+- Order : Passeriformes
+
+Endemic to Eastern Australia
+Lifespan 20 - 30 years (the longest lived passerine)
+
+Male bowerbird collect blue things in an attempt to attract a female to his bower.
+
+Blue is something of a rarity in nature, however the Satin Bowerbird is now spoilt for choice with the plethora of blue bottle caps, pen lids, rappers and other plastic waste that can be hazardous to the architect of this recycled opulence.
+
+>“Blue flowers, blue shells, the blue feathers of rollers of parakeets. Sometimes they paint the things with blue pigment that they grind up from fruit pulp with their beaks. Nowadays they raid picnic tables up to ten miles away if they see readymade blue decorations. What I thought was litter turned out to be my first discovery of the origins of art, the material of a creative process millions of years older than the ancient cave paintings of Lascaux.” (Rothenburg : 2011)
+
+Rothenburg highlights in his work the role aesthetics play sexual attraction, and the way pattern and colour inform notions and evolutions of beauty within nature. 
+
+
+Bower Architecture 
+
+
+Bowers might be described as a “trysting place” as they are meticulously constructed with a plethora of materials and objects into sculptural form designed specifically to attract a mate. Nests for brooding are separate to the frivolities of the bower and constructed up in trees. Gould and Gould draw comparisons between this aesthetically indulgent work of the bower to that of humans, inferring that such conditions that enable this artistic and sexual fixation are having few predators, competition for food and a long or continuous breeding season much alike conditions that kindle creativity within human cultures. (Gould : 222). 
+
+Why build ? 
+- attraction
+- reproduction
+- arts for arts sake 
+
+Requires :
+- Cognition of multiple perspectives  
+- Flexibility of materials and parameters of design
+
+Bower birds are found in Australia and New Guinea, different varieties of them use colours other than blue to attract a mate, such as the Spotted Bowerbird, which collects an assortment of light and dark objects to decorate their bower. (Hansell : 217)
+
+
+>- Rothenburg, David. Survival of the Beautiful: Art, Science, and Evolution, London: Bloomsbury, 2011.
+
+
+>- Hansell, Mike. Built by Animals: The Natural History of Animal Architecture, Oxford University Press, 2007, 216 - 251.
+
+
+>- Gould, James. L, Gould, Grant Carol. Animal Architects : Building and the Evolution of Intelligence, Basic Books, 2007. 221 - 250.
+
 ### Blue Stories
 
 <!-- Maybe just links to the story notes here? -->
