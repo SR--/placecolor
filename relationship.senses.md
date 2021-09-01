@@ -2,7 +2,7 @@
 id: mEFZkB9jojKnPjm20eVbv
 title: Senses
 desc: ''
-updated: 1629272322785
+updated: 1630470368617
 created: 1627981455585
 ---
 Color is one of the senses. But what are senses?
@@ -14,7 +14,7 @@ Color is one of the senses. But what are senses?
 
 A common definition of a sense in neurology is a group of sensory cells that responds to a physical phenomenon, also corresponding to a  region of the brain interprets the signals. Neurologists define abilities such as the sense of direction as post-sensory cognitive activities.
 
->Recently, psychologists and neuroscientists have provided a great deal of evidence showing that perceptual experiences are mostly multimodal. As perceivers, we don’t usually recognize them as such. We think of the experiences we are having as either visual, or auditory or tactile, not realising that they often arise from the fusion of different sensory inputs.
+>Recently, psychologists and neuroscientists have provided a great deal of evidence showing that perceptual experiences are mostly [[multimodal|relationship.communication#multimodal-communication]]. As perceivers, we don’t usually recognize them as such. We think of the experiences we are having as either visual, or auditory or tactile, not realising that they often arise from the fusion of different sensory inputs.
 
 >- Smith, Barry C. “The Nature of Sensory Experience: The Case of Taste and Tasting.” _Phenomenology and Mind_, no. 4 (2013): 212–27. https://doi.org/10/gmdjnk.
 

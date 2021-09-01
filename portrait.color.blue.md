@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1630422189921
+updated: 1630468060321
 created: 1628061941517
 ---
 Potential cross references: color vision, [[portrait.character.taxon.bee]], etc.
@@ -37,7 +37,6 @@ Why are _Morpho_ butterflies blue?
 Why are some _Morpho_ not blue?
 
 >- Debat, Vincent, Serge Berthier, Patrick Blandin, Nicolas Chazot, Marianne Elias, Doris Gomez, and Violaine Llaurens. “Why Are Morpho Blue?” In _Biodiversity and Evolution_, edited by Philippe Grandcolas and Marie-Christine Maurel, 139–74. Elsevier, 2018.
-
 >Color diversity in animals is often discussed in terms of signals received by predators and/or sexual partners or competitors. Butterfly coloration is therefore generally considered first and foremost as a visual signal, both on an inter- and intra-specific level. Other selective pressures act on coloration: butterfly wing scales are also involved in thermoregulation and hydrophobia.
 
 >Despite their iconic status, Morpho remain relatively unknown especially for the evolution of their coloration. While their phylogeny is well established and the nano-structural basis of their color fully identified, the ecological and genetic factors of these traits are almost entirely unexplored. The hypotheses commonly called upon to explain the evolution of the iridescent blue color, whether in terms of sexual selection or escape from predators, have never been explicitly tested. These gaps leave us with a number of open questions: are non-blue species subject to different selective pressures (thermoregulation, hydrophobia, predation, communication)? Do they fly more slowly or simply in a different way than their blue relatives? Are there, within each species, differences in flight behavior between sexes? In the hypothesis regarding the importance of blue as a sexual signal, do Morpho show evidence of particular visual receptors? Are they sensitive to polarized light? All of these questions require experiments to be carried out that would allow us to study flight modalities and numerous behavioral traits. But they point above all, despite more than a century of collecting, toward the lack of understanding of the ecology of Morpho.
@@ -49,7 +48,6 @@ Blues history is rich with equivocal conjecture.
 In Homer’s Odyssey, there are many references to white and black, essentially the albedo scale, in order to describe place and their objects. Reference to colour barely occurs, only in smatterings of red and yellow but with no mention of blue. Similar to the linguistic trend that philologist Lazarus Geiger, and theorist Berlin and Kay also recognise in human cultures across the globe. Blue has been attributed an array of meanings from wealth to Mother Mary’s purity to the police to everyday blue collar workers and the bibliothèque bleue (blue library), as well as the crass blue slang and blue boys to name a few.
 
 >“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” 
-
 >- Goethe, Johann Wolfgan von. _Theory of Colours_, 1810.
 
 The deep and void-like quality desired by Yves Kleins synthetic version of ultramarine is similar to blues  principle of darkness that Goethe describes. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
