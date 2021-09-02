@@ -2,7 +2,7 @@
 id: RxLp0aRjoy8Tb3DnP2AyV
 title: Strangeness
 desc: ''
-updated: 1630562128440
+updated: 1630562969371
 created: 1630558447146
 ---
 
@@ -33,8 +33,6 @@ For examples:
 
 References on neurodiversity...
 
-Giordano, James J., and Bert Gordijn, eds. *Scientific and Philosophical Perspectives in Neuroethics*. Cambridge: Cambridge University Press, 2010.
-
-Gligorov, Nada. *Neuroethics and the Scientific Revision of Common Sense*. Dordrecht: Springer, 2016.
-
-Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. Oxford: Oxford University Press, 2017.
+>- Giordano, James J., and Bert Gordijn, eds. *Scientific and Philosophical Perspectives in Neuroethics*. Cambridge: Cambridge University Press, 2010.
+>- Gligorov, Nada. *Neuroethics and the Scientific Revision of Common Sense*. Dordrecht: Springer, 2016.
+>- Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. Oxford: Oxford University Press, 2017.
