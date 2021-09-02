@@ -1,2 +1,0 @@
-# HTOED|example.historical-thesaurus
-
