@@ -51,7 +51,7 @@ Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. O
 >- Grandin, Temple, and Catherine Johnson. Animals in Translation. New York: Simon, 2005. 
 
 ### Sally Rogers & Justin Williams :
-- Autism is “a compelling disorder because it affects capacities that seem so fundamental to our functioning  as human beings.
+- Autism is “a compelling disorder because it affects capacities that seem so fundamental to our functioning as human beings.
 - “It is almost impossible for those without autism to imagine life without emotional contagion, without awareness of others’ nonverbal signals, without intuiting others’ thoughts and feelings and their perspectives in every interactions” ix
 
 >- Rogers, Sally J., and Justin H.G. Williams. Imitation and the Social Mind: Autism and Typical Development. New York: Guilford, 
