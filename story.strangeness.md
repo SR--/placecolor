@@ -2,7 +2,7 @@
 id: RxLp0aRjoy8Tb3DnP2AyV
 title: Strangeness
 desc: ''
-updated: 1630559166482
+updated: 1630559332734
 created: 1630558447146
 ---
 
@@ -27,3 +27,6 @@ For examples:
 - Non-neurotypical individuals
 - Injured
 - What else?
+
+>- Dodman, Nicholas. _Pets on the Couch: Neurotic Dogs, Compulsive Cats, Anxious Birds, and the New Science of Animal Psychiatry_. New York: Atria Books, 2017.
+>- Sacks, Oliver. _The Man Who Mistook His Wife for a Hat and Other Clinical Tales_. New York: Simon & Schuster, 1998.
