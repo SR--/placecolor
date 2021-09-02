@@ -2,7 +2,7 @@
 id: mEFZkB9jojKnPjm20eVbv
 title: Senses
 desc: ''
-updated: 1629267973944
+updated: 1630552923658
 created: 1627981455585
 ---
 
@@ -17,7 +17,7 @@ Color is one of the senses. But what are senses?
 
 A common definition of a sense in neurology is a group of sensory cells that responds to a physical phenomenon, also corresponding to a  region of the brain interprets the signals. Neurologists define abilities such as the sense of direction as post-sensory cognitive activities.
 
->Recently, psychologists and neuroscientists have provided a great deal of evidence showing that perceptual experiences are mostly multimodal. As perceivers, we don’t usually recognize them as such. We think of the experiences we are having as either visual, or auditory or tactile, not realising that they often arise from the fusion of different sensory inputs.
+>Recently, psychologists and neuroscientists have provided a great deal of evidence showing that perceptual experiences are mostly [[multimodal|relationship.communication#multimodal-communication]]. As perceivers, we don’t usually recognize them as such. We think of the experiences we are having as either visual, or auditory or tactile, not realising that they often arise from the fusion of different sensory inputs.
 
 >- Smith, Barry C. “The Nature of Sensory Experience: The Case of Taste and Tasting.” _Phenomenology and Mind_, no. 4 (2013): 212–27. https://doi.org/10/gmdjnk.
 
@@ -43,3 +43,18 @@ Cohen's eco-psychological senses (53) come in four groups:
 - The feeling senses: sensitivity to gravity, air and wind pressure, and motion.
 - The chemical senses: hormonal sense, such as pheromones, hunger for food, water or air.
 - The mental senses: pain, external and internal, mental or spiritual distress, sense of self, including friendship, companionship and power, psychic capacity.
+
+## Compound, Overlapping or Confused Senses
+
+- Biases
+- Illusions
+- Delusions
+- Misconceptions
+- Habits
+- Traditions
+- Phobias
+    - Agoraphobia: fear and avoidance of places
+    - Claustrophobia: fear of enclosed spaces
+- Philias
+
+>- Sacks, Oliver. _The Man Who Mistook His Wife for a Hat and Other Clinical Tales_. New York: Simon & Schuster, 1998.
