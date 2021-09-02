@@ -2,7 +2,7 @@
 id: FOOGYt5anR92zgSTW6qCD
 title: ' Color Words'
 desc: ''
-updated: 1630560085366
+updated: 1630562154698
 created: 1624870395618
 ---
 
@@ -18,20 +18,14 @@ created: 1624870395618
 
 #### Objectives
 
-- Show the diversity and uniqueness of terms used to describe colour
-- Capture some of the
-
-#### Agents
-
-- Exhibition participants and viewers
+- Show the diversity and uniqueness of terms used to describe color
+- Capture some of the methods for organizing color terms (hierarchies, color universals, hues, reference systems)
 
 ### Methods
 
 - Use examples found in the HTOED
 - Cross-reference relevant portraits
-- Illustrate methods of organising and categorising color words using databases (HTOED, WordNet, Encycolorpedia) and colour theory
-  - > Casson, Ronald W. “Russett, Rose, and Raspberry: The Development of English Secondary Color Terms.” _Journal of Linguistic Anthropology_ 4, no. 1 (1994): 5–22. https://doi.org/10/c8tmdh.
-  - > Biggam, Carole P. _The Semantics of Colour: A Historical Approach_. Cambridge, UK: Cambridge University Press, 2012.
+- Illustrate methods of organizing and categorizing color words using databases (HTOED, WordNet, Encycolorpedia) and color theory
 
 ### Results
 
@@ -55,6 +49,15 @@ created: 1624870395618
 
 ![](/assets/images/2021-09-02-14-46-54.png)
 ![](/assets/images/2021-09-02-14-59-38.png)
+
+> Casson, Ronald W. “Russett, Rose, and Raspberry: The Development of English Secondary Color Terms.” _Journal of Linguistic Anthropology_ 4, no. 1 (1994): 5–22. https://doi.org/10/c8tmdh.
+
+> Biggam, Carole P. _The Semantics of Colour: A Historical Approach_. Cambridge, UK: Cambridge University Press, 2012.
+
+##### Encycolorpedia
+
+![](/assets/images/2021-09-02-15-55-57.png)
+![](/assets/images/2021-09-02-15-56-17.png)
 
 #### Words
 
