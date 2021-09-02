@@ -2,7 +2,7 @@
 id: FOOGYt5anR92zgSTW6qCD
 title: ' Color Words'
 desc: ''
-updated: 1630557046927
+updated: 1630558819580
 created: 1624870395618
 ---
 
@@ -45,7 +45,14 @@ created: 1624870395618
 
 #### Hierarchies
 
-- [[HTOED|example.historical-thesaurus]]
-- [[WordNet|example.wordnet]]
+
+##### [[HTOED|example.historical-thesaurus]]
+
+
+
+##### [[WordNet|example.wordnet]]
+
+![](/assets/images/2021-09-02-14-46-54.png)
+![](/assets/images/2021-09-02-14-59-38.png)
 
 ### Discussion
