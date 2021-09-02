@@ -2,9 +2,12 @@
 id: mEFZkB9jojKnPjm20eVbv
 title: Senses
 desc: ''
-updated: 1628061713873
+updated: 1629267973944
 created: 1627981455585
 ---
+
+- [ ] Add examples of unusual senses (delusions, normal perception, c.f. Oliver Sachs)
+
 Color is one of the senses. But what are senses?
 
 - There are no senses, individual senses are a convenience invented for the purposes of description

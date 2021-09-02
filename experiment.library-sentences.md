@@ -23,7 +23,7 @@ created: 1624857724848
 
 - Highlights the difficulty of extracting meaningful information about nouns in a restricted corpus
   - Statistical measures such as concordance make inferences that rely on large sample sizes for accuracy
-  - Advanced dependency parsers such as [spaCy](https://spacy.io/api/dependencyparser) can identify related words and label them based on defined categories (e.g. an adjective that describes a noun)   
+  - Advanced dependency parsers such as [spaCy](https://spacy.io/api/dependencyparser) can identify related words and label them based on defined categories (e.g. an adjective that describes a noun)
 - Basic statistics
   - "library" (NOUN) appears 82 times
 

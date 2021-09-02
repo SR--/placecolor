@@ -2,13 +2,13 @@
 id: ikZLzE-I-o1vQjJJmqtni
 title: ' Bias in Language'
 desc: ''
-updated: 1629266502487
+updated: 1629267256467
 created: 1624868888561
 ---
 
 - [ ] Collect examples of interesting words and categories from Historical Thesaurus
 - [ ] Format using tables and embed in Markdown
-- [ ] Visualise categories using graphs and/or diagrams
+- [ ] Visualize categories using graphs and/or diagrams
 
 ### Overview
 
@@ -50,7 +50,7 @@ created: 1624868888561
 
 ![Example of HTOED categories tree view](/assets/images/2021-08-18-14-54-11.png)
 
-Compare different structures to 
+Compare different structures to
 
 - The world
   - Animals
