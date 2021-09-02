@@ -2,7 +2,7 @@
 id: FOOGYt5anR92zgSTW6qCD
 title: ' Color Words'
 desc: ''
-updated: 1630558819580
+updated: 1630560085366
 created: 1624870395618
 ---
 
@@ -45,14 +45,27 @@ created: 1624870395618
 
 #### Hierarchies
 
-
 ##### [[HTOED|example.historical-thesaurus]]
 
+> 01 The world | 01.10 Matter | 01.10.09 Colour | 01.10.09.07 Named Colours
 
+![](/assets/images/2021-09-02-15-13-36.png)
 
 ##### [[WordNet|example.wordnet]]
 
 ![](/assets/images/2021-09-02-14-46-54.png)
 ![](/assets/images/2021-09-02-14-59-38.png)
+
+#### Words
+
+- [ ] Format as tables
+
+##### [[HTOED|example.historical-thesaurus]]
+
+Red
+![](/assets/images/2021-09-02-15-14-56.png)
+
+Green
+![](/assets/images/2021-09-02-15-17-22.png)
 
 ### Discussion
