@@ -2,12 +2,19 @@
 id: 2t0XEk9vglUdfC5fJgBHm
 title: Introduction
 desc: ''
-updated: 1630474645771
+updated: 1630554098777
 created: 1624350459400
 ---
 
+## Objective
 
-## The Synopsis in the exhibition
+Body of evidence, examples, questions and ideas that make the notion of place inclusive of all forms of life.
+
+## Declarations
+
+All lives have places
+All lives have subjectivity
+## Exhibition Synopsis
 
 This exhibition is about place and color.
 
