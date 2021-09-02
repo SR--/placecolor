@@ -2,7 +2,7 @@
 id: Sm8Vvl-MZokbK6YFGYeyB
 title: Bee
 desc: ''
-updated: 1630555694019
+updated: 1630555892473
 created: 1624452583202
 ---
 - [ ] Add an example of how humans think about bees
@@ -19,6 +19,4 @@ positive and negative, from literature, Gormenghast, etc...
 
 >- Berg, Cedric P. van den, Jolyon Troscianko, John A. Endler, N. Justin Marshall, and Karen L. Cheney. “Quantitative Colour Pattern Analysis (QCPA): A Comprehensive Framework for the Analysis of Colour Patterns in Nature.” Edited by Graziella Iossa. Methods in Ecology and Evolution 11, no. 2 (February 2020): 316–32. https://doi.org/10/gjp9fq.
 
-
 ![[relationship.color.perception.bee]]
-
