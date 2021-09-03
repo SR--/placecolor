@@ -2,7 +2,7 @@
 id: RxLp0aRjoy8Tb3DnP2AyV
 title: Strangeness
 desc: ''
-updated: 1630562128440
+updated: 1630571093302
 created: 1630558447146
 ---
 
@@ -39,9 +39,10 @@ Gligorov, Nada. *Neuroethics and the Scientific Revision of Common Sense*. Dordr
 
 Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. Oxford: Oxford University Press, 2017.
 
-## Non-Verbal Communication :
+## Non-Verbal Communication
 
 ### Temple Grandin : ‘Animals in Translation’
+
 - Strives to “start over again with animals (and maybe with autistic people, too), and begin to think about them in a different way”
 - “to translate animal life into human terms, and autism into terms neurotypical people may understand and appreciate(in spite of our own considerable limitations and challenges)”  Lyn Worsham & Gary A. Olson, 13.
 - the value of neurodivergency is essential as ecological biodiversity, the positives of autism highlight the connection between human intelligence and animal intelligence, and the value of variation and difference.
@@ -50,13 +51,15 @@ Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. O
 
 >- Grandin, Temple, and Catherine Johnson. Animals in Translation. New York: Simon, 2005. 
 
-### Sally Rogers & Justin Williams :
+### Sally Rogers & Justin Williams
+
 - Autism is “a compelling disorder because it affects capacities that seem so fundamental to our functioning as human beings.
 - “It is almost impossible for those without autism to imagine life without emotional contagion, without awareness of others’ nonverbal signals, without intuiting others’ thoughts and feelings and their perspectives in every interactions” ix
 
 >- Rogers, Sally J., and Justin H.G. Williams. Imitation and the Social Mind: Autism and Typical Development. New York: Guilford, 
 
-### Theory of the Mind : 
+### Theory of the Mind
+
 - Key concept in the last two decades in cognitive psychology and philosophy of mind.
 - To know and appreciate that other individuals have minds with differing beliefs, intentions, desires
 - Capacity to experience empathy
@@ -65,6 +68,7 @@ Illes, Judy, and Sharmin Hossain, eds. *Neuroethics: Anticipating the Future*. O
 >- Worsham, Lynn & Gary A. Olson. “Temple Grandin, Translator: Sounding Autism, Seeing Animals, Making a Difference”. JAC, Vol.32, No. 1/2, 2021, 11-56.
 
 ### Simon Baron-Cohen (1990’s) : Autism theory based in the existence of Theory of Mind
+
 - “mindblindness” the absence of awareness of other minds
 - To explain an autistic trait where it is difficult to distinguish that other people have mental lives separate and completely different from their own.
 - Although this is disputed within the autistic community : as it doesn’t account for daily variability in sensing and fails to recognise the impacts of sensory overload, which can be demonstrated as either an extreme overreaction or an apparent obliviousness/nonresponse to stimuli.
@@ -78,14 +82,13 @@ Howard Gardner : Frames of Mind
 >- Gardner, Howard. Frames of Mind: The Theory of Multiple Intelligences. New York: Basic, 2011. 
 
 ### Harvey Blume : Institute for the Study of the Neurologically Typical 
+
 (parody of the many institutes that study autism spectrum disorders)
 
 Neurotypical Theory of the Mind:
 - “Everyone thinks like me, except when shown to be otherwise”
-
 Autistic Theory of the Mind :
 - “Everyone thinks differently from me — vastly and mysteriously — except when shown otherwise.”
-
 
 “Neurodiversity may be every bit as crucial for the human race as biodiversity is for life in general. Who can say what form of wiring will prove best at any given moment?” - Bloom
 
