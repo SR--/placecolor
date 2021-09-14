@@ -2,10 +2,9 @@
 id: kbDxNouRAJ6LSxKEgznDS
 title: Wavelengths of Colours
 desc: Image depicting the wavelengths of significant colours
-updated: 1625013739134
+updated: 1631610941957
 created: 1624430155379
 ---
-
 
 ![Visible spectrum](/assets/images/color-visible-spectrum.svg)
 <figcaption>
