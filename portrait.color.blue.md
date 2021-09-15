@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1630468060321
+updated: 1631685383391
 created: 1628061941517
 ---
 Potential cross references: color vision, [[portrait.character.taxon.bee]], etc.
