@@ -2,7 +2,7 @@
 id: fY1IaxfskZCKCL4cOn5eQ
 title: Language about Color
 desc: ''
-updated: 1630561156282
+updated: 1630562485064
 created: 1624351689985
 ---
 
@@ -15,6 +15,7 @@ created: 1624351689985
 
 ![Colour universals image](/assets/images/lindsay-brown-within-language-diversity.png)
 [^1]
+
 <p>
 <figcaption>
 Lindsay and Brown, "Within-language diversity in color naming. (A) Diversity in 110 WCS languages. Each pie chart represents one WCS language (numbers at the top) […] (B) Examples of WCS data from four languages; language numbers from A. The top two rows are the two K = 6 branches of the GBP (Green|Blue|Purple) motif; the second two rows are the two K = 5 branches of the Grue motif, both of which are united as single motifs at K = 4." 2009.
