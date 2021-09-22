@@ -14,6 +14,7 @@ Body of evidence, examples, questions and ideas that make the notion of place in
 
 All lives have places
 All lives have subjectivity
+
 ## Exhibition Synopsis
 
 This exhibition is about place and color.
