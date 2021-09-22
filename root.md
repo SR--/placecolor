@@ -2,7 +2,7 @@
 id: a4EZMDhsJj3BSgHS_uQlz
 title: Place & Color
 desc: ''
-updated: 1632292379770
+updated: 1632292967298
 created: 1624349371396
 ---
 # Place & Color
@@ -14,3 +14,4 @@ created: 1624349371396
 ![[exhibition]]
 
 ![[exhibition.introduction]]
+
