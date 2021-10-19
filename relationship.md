@@ -8,6 +8,7 @@ stub: true
 ---
 
 
+
 Relationships are the entities that the exhibition attempts to question or expand. The objective is to encourage reflection and to make the audience/participant rethink what they know.
 
 ## Key Ideas
