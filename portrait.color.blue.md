@@ -172,7 +172,7 @@ Bower birds are found in Australia and New Guinea, different varieties of them u
 >- Hansell, Mike. Built by Animals: The Natural History of Animal Architecture, Oxford University Press, 2007, 216 - 251.
 >- Gould, James. L, Gould, Grant Carol. Animal Architects : Building and the Evolution of Intelligence, Basic Books, 2007. 221 - 250.
 
-### Blue Stories
+### Blue in Stories
 
 <!-- Maybe just links to the story notes here? -->
 ## References and Examples

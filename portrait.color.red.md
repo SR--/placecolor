@@ -19,6 +19,10 @@ created: 1628166200562
 ## Red in Places
 
 ## Red in the Eyes of Non-Human Agents
-## Red Stories
+## Red in Stories
+
+>- Carson, Anne. _Autobiography of Red_. Affred A. Knopf, 1998.
+
+>- Carson, Anne. _Red Doc>,_. Alfred A.Knopf, 2013.
 
 ## References and Examples
