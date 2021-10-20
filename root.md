@@ -13,5 +13,5 @@ created: 1624349371396
 
 ![[exhibition]]
 
-![[exhibition.introduction]]
+![[exhibition.rationale]]
 
