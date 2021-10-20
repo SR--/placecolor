@@ -1,2 +1,4 @@
 .next
 .dendron.cache.json
+
+.dendron.cache.*
