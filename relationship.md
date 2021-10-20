@@ -2,7 +2,7 @@
 id: FlKsi1_5ZYy3hlwpigCHp
 title: Relationship
 desc: ''
-updated: 1625039828194
+updated: 1634706435507
 created: 1624432678654
 stub: true
 ---
@@ -11,7 +11,16 @@ stub: true
 
 Relationships are the entities that the exhibition attempts to question or expand. The objective is to encourage reflection and to make the audience/participant rethink what they know.
 
-## Key Ideas
+## Index
+- [[Color|relationship.color]]
+- [[Communication|relationship.communication]]
+- [[Culture|relationship.culture]]
+- [[Design|relationship.design]]
+- [[Pattern|relationship.pattern]]
+- [[Place|relationship.place]]
+- [[Senses|relationship.senses]]
+- [[Subjectivity|relationship.subjectivity]]
+- ## Key Ideas
 
 - We can see the universe in terms of relationships
 - Abiotic structures and patterns are relationships
