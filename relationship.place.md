@@ -28,7 +28,7 @@ Place is a spatial/physical matrix that limits the formation of patterns but als
   - Perceptual capabilities, e.g. [[ability to perceive color|relationship.color.perception]]
     - Agents with varying degrees of agency (complexity)
       - Landscape, e.g. forests, mountains
-      - Lifeforms, e.g. [[humans|portrait.character.taxon.human]], [[bees|portrait.character.taxon.bee]], [[mosses|portrait.character.taxon.moss]], amoeba, trees
+      - Lifeforms, e.g. [[humans|portrait.taxon.human]], [[bees|portrait.taxon.bee]], [[mosses|portrait.taxon.moss]], amoeba, trees
       - Phenomena, e.g. [[color|relationship.color]], light
       - Natural forces, e.g. wind, tornadoes, waves
 - The mental world
@@ -48,7 +48,7 @@ Is it necessary for a living being to experience a place for it to be a place?
 
 Even if it is necessary, there is a wide variety in which living beings can engage with places, where those places are, how long they persist, etc.
 
-![[dendron://placecolor/portrait.character.taxon.planarian]]
+![[dendron://placecolor/portrait.taxon.planarian]]
 
 ### Living Beings Making Places
 

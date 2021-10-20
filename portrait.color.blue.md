@@ -5,7 +5,7 @@ desc: ''
 updated: 1631685383391
 created: 1628061941517
 ---
-Potential cross references: color vision, [[portrait.character.taxon.bee]], etc.
+Potential cross references: color vision, [[portrait.taxon.bee]], etc.
 
 ![](/assets/images/2021-08-04-17-54-51.png)
 

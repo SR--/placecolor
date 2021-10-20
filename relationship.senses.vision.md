@@ -7,7 +7,7 @@ created: 1629643923223
 ---
 Vision (or the eye) has evolved multiple times in the Earth's evolutionary history.
 
-For example, see Peter Godfrey-Smith on an alternative evolutionary pathway of an octopus eye. Last common ancestor with humans is a flat worm or some such creature (cf. [[Planarian | portrait.character.taxon.planarian]]). Yet, octopi have good vision that has developed independently.
+For example, see Peter Godfrey-Smith on an alternative evolutionary pathway of an octopus eye. Last common ancestor with humans is a flat worm or some such creature (cf. [[Planarian|portrait.taxon.planarian]]). Yet, octopi have good vision that has developed independently.
 
 Another interesting fact about octopi is that they most likely can see light, and possibly patterns of light, with their whole skin.
 
