@@ -1,0 +1,17 @@
+---
+id: hDYLqHItgbN2YHZqaOLTM
+title: Operation
+desc: ''
+updated: 1634703737617
+created: 1634703495136
+---
+- The exhibition exists online as an open wiki-style website
+- Published notes can be edited from the web by anyone with a GitHub account
+- Individual pages link to dedicated content sites
+- States and aspects of the online exhibition can be presented in physical spaces including museums and galleries
+- The exhibition content supports active research projects
+- The exhibition content supports teaching, including:
+  - The University of Melbourne
+    - Interspecies Design Studio
+    - Installations and Happenings
+    - Design Futures

@@ -1,11 +1,10 @@
 ---
-id: w-4l8HpNv1OhvF1O02EUA
-title: Exhibition
+id: qSZHC0PW792nneQPPM9b7
+title: Principles
 desc: ''
-updated: 1634703484915
-created: 1624349782162
+updated: 1634703409300
+created: 1634703409300
 ---
-This page provides an overview of the exhibition, including its core principles, goals and content.
 
 ## Principles of the Exhibition
 
@@ -16,3 +15,6 @@ This page provides an overview of the exhibition, including its core principles,
 - The exhibition is open-ended, visitors can construct their own stories
 - The exhibition as a seed for future work that can take form of research, teaching, art or design
 
+## Relevant Technical Capabilities
+
+- Published notes can be edited from the web by anyone with a GitHub account
