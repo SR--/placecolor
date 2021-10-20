@@ -2,7 +2,7 @@
 id: X7YILmRs4-us6j0Cqr8mB
 title: Color
 desc: ''
-updated: 1628167703173
+updated: 1634705422025
 created: 1624349510689
 ---
 
@@ -27,7 +27,7 @@ To illustrate:
     - The [[ability to perceive certain wavelengths as visual information|relationship.color.perception]] is determined by the evolution of biological systems.  
   - **Physics**: A term referring to a [[range of wavelengths within the electromagnetic spectrum|relationship.color.physics]].
   - **Language** [[A group of words referring to specific colors|relationship.color.language]].
-
+ ^GI338iPZvbyy
 ## Pigments and Dyes
 
 >- Eastaugh, Nicholas. _The Pigment Compendium: A Dictionary of Historical Pigments_. Amsterdam: Elsevier Butterworth-Heinemann, 2004.
@@ -46,5 +46,6 @@ To illustrate:
 
 - [ ] List some interesting historical pigments as example. Link to 'portraits' @SR--
 
-[^1]: Elert, Glenn. -The Physics Hypertextbook-. Brooklyn, NY: Glenn Elert, 1998–. [https://physics.info/color/](https://physics.info/color/).
+[^1]: Elert, Glenn. _The Physics Hypertextbook_. Brooklyn: Glenn Elert, 1998.
+ [https://physics.info/color/](https://physics.info/color/).
 [^2]: *Ibid*.

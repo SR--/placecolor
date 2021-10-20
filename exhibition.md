@@ -2,20 +2,11 @@
 id: w-4l8HpNv1OhvF1O02EUA
 title: Exhibition
 desc: ''
-updated: 1624421110610
+updated: 1634703982708
 created: 1624349782162
 ---
+This page provides an overview of the exhibition, including its core principles, goals and content.
 
-
-## Principles of the Exhibition
-
-- The exhibition is continuous, it is in constant progress
-- The production of the exhibition is transparent, all can see how all is done
-- The exhibition is participatory, many can contribute
-- The exhibition helps stakeholders tell their own stories
-- The exhibition is open-ended, visitors can construct their own stories
-- The exhibition as a seed for future work
-
-## Relevant Technical Capabilities
-
-- Published notes can be edited from the web by anyone with a GitHub account
+![[exhibition.principles]]
+![[exhibition.operation]]
+![[exhibition.acknowledgements]]

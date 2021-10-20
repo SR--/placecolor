@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis
 desc: ''
-updated: 1625211297319
+updated: 1634698775032
 created: 1624955696999
 ---
 
@@ -39,13 +39,16 @@ Standard introduction for any tasks involving text analysis of *[[Gormenghast|ex
 
   1. The full text of the novel (unstructured text).
   2. External sources, databases and techniques (lists of colors from thesauri, specialist databases, natural language processing libraries, etc.).
-  3. Images, graphs and tables that [[(re-)interpret the novel (item 1) using information from item 2|experiment.place-schema]].
+  3. Images, graphs and tables that [[interpret the novel (item 1) using information from item 2|experiment.place-schema]].
 
 ### Methods
 
 - Select a test corpus
-  - See: [[Why did we select this novel?|example.gormenghast#Why-did-we-select-this-novel]]
+  - We limited our analysis to a single fictional text, _The Gormenghast Novels_ by Mervyn Peake. We selected these novels for their focus on place, which others have observed: in his introduction to *Titus Groan*, Anthony Burgess describes Peake’s writing as architectural and three-dimensional qualities.[^1] The trilogy is also the subject of a PhD thesis by Lesser Woods, who uses the novel’s descriptions as the basis for architectural designs.[^2]
 
 ### Results
 
 - See [[example.experiment]] for the outcomes of our attempts to apply the above logic to several "phenomena" in the novel.
+
+[^1]: Mervyn Peake, Anthony Burgess, and Quentin Crisp, _The Gormenghast Novels_ (Woodstock: Overlook Press, 1995).
+[^2]: Imogen Helen Louise Lesser Woods, “Literary Language as a Tool for Design: An Architectural Study of the Spaces of Mervyn Peake’s The Gormenghast Trilogy and ‘Boy in Darkness’” (PhD, Kent, University of Kent, 2018).
