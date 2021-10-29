@@ -23,6 +23,7 @@
     "description": "Design-research exhibition about more-than-human place",
     "siteLastModified": true,
     "gh_edit_branch": "main",
+    "gh_edit_repository": "https://github.com/SR--/placecolor.git",
     "usePrettyLinks": true,
     "siteNotesDir": "notes",
     "gh_edit_link": true,
