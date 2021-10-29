@@ -14,6 +14,8 @@
       "root"
     ],
     "siteRootDir": "docs",
+    "logo": "placecolor/assets/images/logo.png",
+    "siteFaviconPath": "placecolor/assets/images/favicon.ico",
     "assetsPrefix": "/placecolor",
     "siteUrl": "https://sr--.github.io",
     "usePrettyRefs": true,
@@ -23,7 +25,6 @@
     "gh_edit_branch": "main",
     "usePrettyLinks": true,
     "siteNotesDir": "notes",
-    "siteFaviconPath": "favicon.ico",
     "gh_edit_link": true,
     "gh_edit_link_text": "Edit this page on GitHub",
     "gh_root": "docs/",
