@@ -16,8 +16,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1634741275236,
-      "created": 1634741275236,
+      "updated": 1635468198611,
+      "created": 1635468198611,
       "parent": null,
       "children": [],
       "data": {}
@@ -7402,7 +7402,7 @@
     },
     "v6MOOE8s1eJLUQHA2DOkX": {
       "id": "v6MOOE8s1eJLUQHA2DOkX",
-      "title": "Examples",
+      "title": "Example",
       "vault": {
         "fsPath": "placecolor",
         "remote": {
@@ -7438,7 +7438,7 @@
       ],
       "anchors": {},
       "fname": "example",
-      "updated": 1634702090138,
+      "updated": 1634744342860,
       "created": 1624430097692,
       "parent": "a4EZMDhsJj3BSgHS_uQlz",
       "children": [
@@ -7449,7 +7449,7 @@
         "zV4QapwDxHhKwQ1pZM2U6"
       ],
       "data": {},
-      "contentHash": "b520488d40da3e97e1ed1e236bc4fce9",
+      "contentHash": "c9122645d598798e7c8ba886e3366a30",
       "custom": {}
     },
     "zV4QapwDxHhKwQ1pZM2U6": {
@@ -8346,8 +8346,8 @@
       "links": [],
       "anchors": {},
       "fname": "root.changelog",
-      "updated": 1634741275236,
-      "created": 1634741275236,
+      "updated": 1635468198611,
+      "created": 1635468198611,
       "parent": null,
       "children": [],
       "data": {}
