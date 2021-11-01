@@ -2,7 +2,7 @@
 id: X7YILmRs4-us6j0Cqr8mB
 title: Color
 desc: ''
-updated: 1634705422025
+updated: 1635762064085
 created: 1624349510689
 ---
 
@@ -32,6 +32,29 @@ To illustrate:
 
 >- Eastaugh, Nicholas. _The Pigment Compendium: A Dictionary of Historical Pigments_. Amsterdam: Elsevier Butterworth-Heinemann, 2004.
 >- Feller, Robert L., Ashok Roy, Elisabeth West FitzHugh, and Barbara Hepburn Berrie, eds. _Artists’ Pigments: A Handbook of Their History and Characteristics_. Washington: National Gallery of Art, 1986.
+
+## Understanding of Color in History
+
+[[relationship.color.perception]]
+
+Colours are “no more than mere names so far as the object in which we place them is concerned … they reside only in consciousness. Hence if the living creature were removed, all these qualities would be wiped away and annihilated”, Galileo, 1623, The Assayer
+
+>"SIMPL.
+>
+>By night, The Moon appears brighter by night than by day. without all comparison. And methinks the Moon resembleth that pillar of Clouds and pillar of Fire, which guided the Israelites; which at the presence of the Sun, appeared like a Cloud, but in the night was very glorious. Thus I have by day observed the Moon amidst certain small Clouds, The Moon beheld in the day time, is like to a little cloud. just as if one of them had been coloured white, but by night it shines with much splendor.
+>
+>SALV.
+>
+>So that if you had never happened to see the Moon, save onely in the day time, you would not have thought it more shining than one of those Clouds."
+
+Galileo, Dialogue Concerning the Two Chief World Systems, The First Dialogue
+
+Galilei, Galileo, and Kenneth R. Seddon. _Collected Works of Galileo Galilei_. Hastings: Delphi Classics, 2017.
+
+![Moon Drawing by Galileo](/assets/images/moon.gif){width: 500px}
+![Moon Drawing by Galileo](/assets/images/moon1.png){width: 500px}
+
+Drawings from Galileo's 1610 Sidereus Nuncius.
 
 ## Users of Color
 
