@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1631685383391
+updated: 1638878217008
 created: 1628061941517
 ---
 Potential cross references: color vision, [[portrait.taxon.bee]], etc.
@@ -175,6 +175,24 @@ Bower birds are found in Australia and New Guinea, different varieties of them u
 ### Blue in Stories
 
 <!-- Maybe just links to the story notes here? -->
+
+## Blue of Time
+
+>Ice has a memory and the colour of this memory is blue.
+>
+>High on the ice cap, snow falls and settles in soft layers known as firn. As the firn forms, air is trapped between snowflakes, and so too are dust and other particles. More snow falls, settling upon the existing layers of firn, starting to seal the air within them. More snow falls, and still more. The weight of snow begins to build up above the original layer, compressing it, changing the structure of the snow. The intricate geometries of the flakes begin to collapse. Under pressure, snow starts to sinter into ice. As ice crystals form, the trapped air gets squeezed together into tiny bubbles. This burial is a form of preservation. Each of those air bubbles is a museum, a silver reliquary in which is kept a record of the atmosphere at the time the snow first fell. Initially, the bubbles form as spheres. As the ice moves deeper down, and the pressure builds on it, those bubbles are squeezed into long rods or flattened discs or cursive loops.
+>
+>The colour of deep ice is blue, a blue unlike any other in the world – the blue of time.
+>
+>The blue of time is glimpsed in the depths of crevasses.
+>
+>The blue of time is glimpsed at the calving faces of glaciers, where bergs of 100,000-year-old ice surge to the surface of fjords from far below the water level.
+>
+>The blue of time is so beautiful that it pulls body and mind towards it.
+
+Macfarlane, Robert. _Underland: A Deep Time Journey_. New York: W. W. Norton, 2019.
+
+>Ice is blue because when a ray of light passes through it, it hits the crystal structure of ice and is deflected, bounces off into another crystal and is deflected again, bounces off into another, and another, and in this manner ricochets its way to the eye. Light passing through ice therefore travels much further than the straight-line distance to the eye. Along the way the red end of the spectrum is absorbed, and only the blue remains.
 ## References and Examples
 
 >- Nelson, Maggie. _Bluets_. Seattle: Wave Books, 2009.
