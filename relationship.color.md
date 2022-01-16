@@ -2,7 +2,7 @@
 id: X7YILmRs4-us6j0Cqr8mB
 title: Color
 desc: ''
-updated: 1635762064085
+updated: 1642229773723
 created: 1624349510689
 ---
 
@@ -29,7 +29,7 @@ To illustrate:
   - **Language** [[A group of words referring to specific colors|relationship.color.language]].
  ^GI338iPZvbyy
 ## Pigments and Dyes
-
+[^]
 >- Eastaugh, Nicholas. _The Pigment Compendium: A Dictionary of Historical Pigments_. Amsterdam: Elsevier Butterworth-Heinemann, 2004.
 >- Feller, Robert L., Ashok Roy, Elisabeth West FitzHugh, and Barbara Hepburn Berrie, eds. _Artists’ Pigments: A Handbook of Their History and Characteristics_. Washington: National Gallery of Art, 1986.
 
@@ -64,8 +64,6 @@ Drawings from Galileo's 1610 Sidereus Nuncius.
 ### Architecture and Design
 
 >- Porter, Tom, Byron Mikellides, and Terry Farrell, eds. _Colour for Architecture Today_. London: Taylor & Francis, 2009.
-
-
 
 - [ ] List some interesting historical pigments as example. Link to 'portraits' @SR--
 
