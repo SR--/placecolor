@@ -2,7 +2,7 @@
 id: w9rAi27i4oZvgEKfBZKSI
 title: Sentiment Analysis
 desc: ''
-updated: 1644995293765
+updated: 1644996192088
 created: 1624857363634
 ---
 
@@ -48,7 +48,7 @@ Opportunity to investigate tools from:
 ### Limitations
 
 - Accessible (open-source, suitable for personal computers) software can perform categorisation based on word frequency (how many 'positive' words appear in this sentence?) but struggles with complex language tasks (detecting sarcasm, negation, qualifications), which can reduce accuracy. 
-    - The influence of errors decreases as corpus size increases. Trends observed in the works of Jane Austen are more reliable than one paragraph from *Pride and Prejudice*.a
+    - The influence of errors decreases as corpus size increases. Trends observed in the works of Jane Austen are more reliable than one paragraph from *Pride and Prejudice*.
 
 ## Methods
 
