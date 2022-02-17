@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis
 desc: ''
-updated: 1634698775032
+updated: 1645076605442
 created: 1624955696999
 ---
 
@@ -27,13 +27,30 @@ Standard introduction for any tasks involving text analysis of *[[Gormenghast|ex
   - Ambiguous/loosely-defined cultural phenomena such as [[place|relationship.place]] are amalgamations of different sources not limited to the impression created directly by language, e.g. collective/cultural memory such as awareness of other works, history, symbolic associations play a large part.
 
 
+## Research Question
+- Text analysis tools can automate the extraction of descriptive words about places in literary text(s)
+## Methods
+
+1. Select a text containing descriptive language about places.
+   - This research grant uses *[[Gormenghast|example.gormenghast]]* by Mervyn Peake to explore synergies between design, literature and place.
+2. Use text analysis tools to extract data about place from this text
+   - [[Sentiment analysis|experiment.sentiment-analysis]] summarises moods and emotions in text(s).
+   - Measuring [[collocations|experiment.term-explorer]] between words highlights the descriptive words associated with place nouns.
+   - [[Frequency searches|experiment.color-words]] measures the importance of words in text(s).
+   - Reviewing [[words in context|experiment.library-sentences]] helps verify assumptions derived from automated methods.
+    - [[Arranging words|experiment.color-timeline]] by occurence reveals trends in language usage over 'time'.  
+3. Explore the limitations of this data and suggest improvements.
+   - A working [[schema|experiment.place-schema]] relates this data about place language.
+   - Exploring the [[biases implict in language|experiment.bias-in-language]] reveals the limitations 
+4. Suggest applications for this data.
+   - This data can inform [[representatations|experiment.parametric-hermeneutics]] of places.
 #### Agents
 
 - Directly involved
   - Readers of the novel can use the timeline as a tool to supplement deep reading and exploration of the novel.
   - Designers and artists can use the tool to support creative (re-)interpretations of the novel.
 - Implicitly invoked
-  - [[The author|example.experiment.gormenghast]] and his unique set of experiences, biases, stylistic flourishes, etc.
+  - [[The author|example.gormenghast]] and his unique set of experiences, biases, stylistic flourishes, etc.
 
 #### Medium
 
