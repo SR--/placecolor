@@ -2,7 +2,7 @@
 id: 2t0XEk9vglUdfC5fJgBHm
 title: Rationale
 desc: ''
-updated: 1634704052191
+updated: 1645262072317
 created: 1624350459400
 ---
 
@@ -38,13 +38,12 @@ How are they related?
 
 >- Wadiwel, Dinesh Joseph. “Do Fish Resist?” _Cultural Studies Review_ 22, no. 1 (2016): 196–242. https://doi.org/10/gmns2z.
 
-
-
-
 ## Significance
+
 - [ ] Describe the difference between the Place and Parametricism objectives and this exhibition's objectives
 
 Provide the larger-level questions
+
 ## Gap
 
 ## Opportunity
