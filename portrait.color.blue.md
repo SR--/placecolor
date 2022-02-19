@@ -2,7 +2,7 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1638878217008
+updated: 1645263522180
 created: 1628061941517
 ---
 Potential cross references: color vision, [[portrait.taxon.bee]], etc.
@@ -175,6 +175,13 @@ Bower birds are found in Australia and New Guinea, different varieties of them u
 ### Blue in Stories
 
 <!-- Maybe just links to the story notes here? -->
+
+### Blue Food
+
+[Where does blue food dye come from?](https://www.scientificamerican.com/article/where-does-blue-food-dye/)
+
+- [ ] synthetic and natural blues
+- [ ] the fact that plants provide the color or bacteria (include images of those)
 
 ## Blue of Time
 
