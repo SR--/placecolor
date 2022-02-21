@@ -2,7 +2,7 @@
 id: w9rAi27i4oZvgEKfBZKSI
 title: Sentiment Analysis
 desc: ''
-updated: 1645074540620
+updated: 1645420709578
 created: 1624857363634
 ---
 
@@ -21,8 +21,15 @@ created: 1624857363634
   - Desire to extract subjective descriptions of place from text (e.g., adjectives, place names) and parse them to identify patterns and trends (e.g., common associations between nouns and descriptive words)
   - Use descriptive
 - Who could this research benefit?
+  - Our intended audience is designers, particularly those working with nonhumans.
+    - Benefits extend to collaborators, e.g. ecologists, biologists, botanists, etc.
+    - Greater knowledge of nonhuman perspectives can improve design outcomes.   
 - How does it relate to the [[broader themes|relationship]]?
-  - Differences in perceptual abilities and how these influence culture, understanding of place, etc.
+  - Differences in perceptual abilities between species influences their conception of place, which informs culture, social dynamics, and ways of understanding their environment.
+    - Concepts from animal justice studies conted that nonhuman species enact behaviours that satisfy ecocentric definitions of culture [REF]. Animals develop instinctive (fight or flight) responses to places based on positive and negative experiences and share this knowledge with others [REF]. 
+      - For example, crows communicate rituals ([Example]) to eachother using rudimentary language, hereditary exchange, and mirroring [REF].
+      - Plant species "prefer" places with resources that support flourishing.
+      - One can argue that nonhuman species can construct place attachments depending on the sophistication of their perceptual abilities.
 
 ## Research Gap
 
@@ -32,25 +39,27 @@ created: 1624857363634
     - These methods produce binary or hierarchical interpretations of a place, e.g. what adjectives visitors use to describe a Google Maps location.[REF]
     - Large datasets exist to support analysis, but these are intended for commercial applications (e.g., market research, improving search engine results).
 - Quantifying a 'place' is difficult because places are subjective and complex.
-  - Cultural, physical, biological, evolutionary, social, economic, etc. factors construct a sense of place
-    - The influence of each factor varies across individuals and groups [REF]
+  - Cultural, physical, biological, evolutionary, social, and economic dynamics contribute to an individual's sense of place. It is difficult to delineate and extract these factors from texts alone.
 ## Opportunity
 
-- Firsthand accounts (literary, )
-- Use methods from: 
+- Literature describes the subjective qualities (atmosphere, geography, histories, culture, emotions, etc.) of fictional places.
+- Use methods from other disciplines to analyse representative texts. 
   - Digital humanities and natural language processing
-    - Digital humanities scholars use natural language processing and statistical analysis to quantify literary texts. These approaches identify trends in word usage (number of times a word is used, common word pairs, etc.) in a single text (e.g., *Moby Dick* by Herman Melville) or across large corpora (e.g., the works of Jane Austen or all Gothic novels published during the 19<sup>th</sup> century).
-    - Sentiment analysis uses lexicons to 'measure' the sentiment of words.  The process determines the 'sentiment' of a text (e.g., a sentence or paragraph) by assigning each word to a lexicon category. 
+    - Digital humanities scholars use natural language processing and statistical analysis to quantify literary texts. These approaches identify trends in word usage (how many times a word or word pair is used) in a single text (e.g., *Moby Dick* by Herman Melville) or large corpora (e.g., the works of Jane Austen or all Gothic novels published during the 19<sup>th</sup> century).
+    - Sentiment analysis uses lexicons to approximate the sentiment of words.  The process determines the 'sentiment' of a text (e.g., a sentence or paragraph) by assigning each word to a lexicon category. 
       - The [NRC Emotion Lexicon](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm) is an open-source lexicon for sentiment analysis that can score words based on sentiments (positive or negative) and eight emotions (anger, anticipation, disgust, fear, etc...).[^c]
   - Geographical information (imagination) systems
     - Speculative research (c.f. 'geographic imagination systems') demonstrates applications of these methods.[^a] [^b]
+  - Automating semi-supervised methods for extracting place data establishes a basic standard for 
 
 ### Limitations
 
+- Our only source of information is the English language, which biases Enlightenment-era worldviews founded on rationalist principles [REF]. Anthropocentric language is blind to the richness of nonhuman life.
+  - As society becomes less enmeshed with nonhuman nature, language has lost many place-based terms. [REF, Robert MacFarlane]
+  - Reference material about nonhuman species (textbooks, academic papers, natural history) adopt an ecocentric position eliminates some anthropocentric bias, as does fiction focused on places.
 - Accessible (open-source, suitable for personal computers) software can perform categorisation based on word frequency (how many 'positive' words appear in this sentence?) but struggles with complex language tasks (detecting sarcasm, negation, qualifications), which can reduce accuracy. 
-    - The influence of errors decreases as corpus size increases. Trends observed in the works of Jane Austen are more reliable than one paragraph from *Pride and Prejudice*.
-
-
+    - The influence of errors decreases as corpus size increases: trends observed in the works of Jane Austen are more reliable than one paragraph from *Pride and Prejudice*.
+- Our knowledge of statistical methods limits the replicability of our findings.We acknowledge that errors will exist, but hope others will find our conceptual approach interesting. We aim to demonstrate that applying these methods to novel scenarios can produce interesting results that others can extend. 
 
 ## Methods
 
