@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis Overview
 desc: 'Standard introduction for experiments using text analysis to explore place in *[[Gormenghast|example.gormenghast]]*.'
-updated: 1645422000111
+updated: 1645444992754
 created: 1624955696999
 ---
 
@@ -22,8 +22,7 @@ Excerpt from text analysis of <i>Gormenghast</i>.
 ## Significance
 
 - What motivated our inquiry?
-  - Desire to extract subjective descriptions of place from text (e.g., adjectives, place names) and parse them to identify patterns and trends (e.g., common associations between nouns and descriptive words)
-  - Use descriptive
+  - Desire to extract subjective descriptions of place from text (e.g., adjectives, place names) and parse them to identify patterns and trends (e.g., common associations between nouns and descriptive words).
 - Who could this research benefit?
   - Our intended audience is designers, particularly those working with nonhumans.
     - Benefits extend to collaborators, e.g. ecologists, biologists, botanists, etc.
