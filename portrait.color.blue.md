@@ -2,16 +2,16 @@
 id: R4Yr2ply84sch3EMBnYF8
 title: Blue
 desc: ''
-updated: 1645263522180
+updated: 1645275985252
 created: 1628061941517
 ---
 Potential cross references: color vision, [[portrait.taxon.bee]], etc.
 
-![](/assets/images/2021-08-04-17-54-51.png)
+![butterfly](/assets/images/2021-08-04-17-54-51.png)
 
 [The Karner Blue Butterfly](https://modernconservationist.com/forgotten-endangered-species-karner-blue-butterfly/)
 
-![](/assets/images/2021-08-04-18-22-03.png)
+![mars](/assets/images/2021-08-04-18-22-03.png)
 
 [Blue Dunes on the Red Planet](https://www.nasa.gov/image-feature/blue-dunes-on-the-red-planet) Image Credit: NASA/JPL-Caltech/ASU
 
@@ -47,8 +47,9 @@ Blues history is rich with equivocal conjecture.
 
 In Homer’s Odyssey, there are many references to white and black, essentially the albedo scale, in order to describe place and their objects. Reference to colour barely occurs, only in smatterings of red and yellow but with no mention of blue. Similar to the linguistic trend that philologist Lazarus Geiger, and theorist Berlin and Kay also recognise in human cultures across the globe. Blue has been attributed an array of meanings from wealth to Mother Mary’s purity to the police to everyday blue collar workers and the bibliothèque bleue (blue library), as well as the crass blue slang and blue boys to name a few.
 
->“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.” 
->- Goethe, Johann Wolfgan von. _Theory of Colours_, 1810.
+>“Blue: as yellow is always accompanied with light, so it may be said that blue still brings a principle of darkness with it. This color has a peculiar and almost indescribable effect on the eye. As a hue it is powerful - but it is on the negative side, and in its highest purity is, as it were, a stimulating negation. Its appearance, then, is a kind of contradiction between excitement and repose.”
+
+Goethe, Johann Wolfgan von. _Theory of Colours_, 1810.
 
 The deep and void-like quality desired by Yves Kleins synthetic version of ultramarine is similar to blues  principle of darkness that Goethe describes. The vacuousness of this pigment is potentially due to the ways that synthetic blue lattice is formed, which is much more unified than its naturally occurring ultramarine counterpart (Farvaro, et al.). Ultramarine is the purified pigment from the semi-precious gemstone, lapis lazuli, and has been used in the 14th and 17th centuries paintings as a representation of wealth and power. Lapis lazuli serves a symbolic function representing the contradictions in political assemblages and trade agreements, since it is a resource that has continually been the grounds conflict and exploitation. It is at once an isolated resource, only existing in eleven known depositories around the globe, as well as one that has been identified in places all over the world since 38,000BC (Pister 45).
 
@@ -108,6 +109,7 @@ The purified pigment remained in favour up until the 19th Century when a synthet
 ### Blue Places
 
 The Blue Mountain (Koh-e-Laguard) of the Sar-e-Sang mines in East Afghanistan
+
 - Mined since 6,000 BC
 - Highest quality lazurite, few calcite and pyrite impurities
 - Contested land with complex geopolitics
@@ -153,13 +155,13 @@ Rothenburg highlights in his work the role aesthetics play sexual attraction, an
 
 Bower Architecture
 
-Bowers might be described as a “trysting place” as they are meticulously constructed with a plethora of materials and objects into sculptural form designed specifically to attract a mate. Nests for brooding are separate to the frivolities of the bower and constructed up in trees. Gould and Gould draw comparisons between this aesthetically indulgent work of the bower to that of humans, inferring that such conditions that enable this artistic and sexual fixation are having few predators, competition for food and a long or continuous breeding season much alike conditions that kindle creativity within human cultures. (Gould : 222). 
+Bowers might be described as a “trysting place” as they are meticulously constructed with a plethora of materials and objects into sculptural form designed specifically to attract a mate. Nests for brooding are separate to the frivolities of the bower and constructed up in trees. Gould and Gould draw comparisons between this aesthetically indulgent work of the bower to that of humans, inferring that such conditions that enable this artistic and sexual fixation are having few predators, competition for food and a long or continuous breeding season much alike conditions that kindle creativity within human cultures. (Gould : 222).
 
 Why build?
 
 - attraction
 - reproduction
-- arts for arts sake 
+- arts for arts sake
 
 Requires:
 
@@ -168,9 +170,9 @@ Requires:
 
 Bower birds are found in Australia and New Guinea, different varieties of them use colours other than blue to attract a mate, such as the Spotted Bowerbird, which collects an assortment of light and dark objects to decorate their bower. (Hansell : 217)
 
->- Rothenburg, David. Survival of the Beautiful: Art, Science, and Evolution, London: Bloomsbury, 2011.
->- Hansell, Mike. Built by Animals: The Natural History of Animal Architecture, Oxford University Press, 2007, 216 - 251.
->- Gould, James. L, Gould, Grant Carol. Animal Architects : Building and the Evolution of Intelligence, Basic Books, 2007. 221 - 250.
+>- Rothenburg, David. _Survival of the Beautiful: Art, Science, and Evolution_, London: Bloomsbury, 2011.
+>- Hansell, Mike. _Built by Animals: The Natural History of Animal Architecture_, Oxford University Press, 2007, 216 - 251.
+>- Gould, James. L, Gould, Grant Carol. _Animal Architects : Building and the Evolution of Intelligence_, Basic Books, 2007. 221 - 250.
 
 ### Blue in Stories
 
@@ -200,6 +202,7 @@ Bower birds are found in Australia and New Guinea, different varieties of them u
 Macfarlane, Robert. _Underland: A Deep Time Journey_. New York: W. W. Norton, 2019.
 
 >Ice is blue because when a ray of light passes through it, it hits the crystal structure of ice and is deflected, bounces off into another crystal and is deflected again, bounces off into another, and another, and in this manner ricochets its way to the eye. Light passing through ice therefore travels much further than the straight-line distance to the eye. Along the way the red end of the spectrum is absorbed, and only the blue remains.
+
 ## References and Examples
 
 >- Nelson, Maggie. _Bluets_. Seattle: Wave Books, 2009.
