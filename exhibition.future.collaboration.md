@@ -2,7 +2,7 @@
 id: gkvX6MrncvIr7cb6Rk8OM
 title: Collaboration
 desc: ''
-updated: 1645508656150
+updated: 1645508735110
 created: 1645493504343
 ---
 This note describes how we imagine other researchers and developers could use and extend our workflow.
@@ -34,8 +34,6 @@ This note describes how we imagine other researchers and developers could use an
 - [Digital gardening](https://github.com/MaggieAppleton/digital-gardeners)
   - [History of the concept by Maggie Appleton](https://maggieappleton.com/garden-history)
   - Loosely organised/hierarchical collections of notes that serve as knowledge bases for users.
-- 
-
 ## Limitations
 - Visual Studio Code and git/GitHub can challenge inexperienced users. 
   - Instructions that simplify this procedure could smooth this learning curve, allowing users to contribute quickly.

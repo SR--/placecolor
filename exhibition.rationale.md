@@ -2,7 +2,7 @@
 id: 2t0XEk9vglUdfC5fJgBHm
 title: Rationale
 desc: ''
-updated: 1645508602692
+updated: 1645508958635
 created: 1624350459400
 ---
 
@@ -68,11 +68,6 @@ What roles do tools play in the perception, communication, memory and use of col
 
 Suggestions for Awnili
 
-Consider the link to knowledge. What is different now? What ought to be different (hint, more-than-human knowledge)
-How is knowledge different in connection to globalisation, to technology?
-Consider the link to culture (artworlds/business), have exhibitions became entertainment business?
-From here, consider the ethical/moral reasons for them, are they worth making?
-
 Bodies of knowledge:
 
 Digital archiving
@@ -89,9 +84,6 @@ Are exhibitions still useful, intellectually or ethically?
 Strong/weak sides to them
 The observation that something has been common in the past or is still common does not necessarily mean it is a good/worthwhile way to do things
 
-- Useful/parallel/interesting concepts
-
-
 - Future ideas
   - Integration of reference objects (e.g. Zotero) into knowledge bases
-  - More meaningful integration of notes with node graph, so nodes
+  - More meaningful integration of notes with node graph
