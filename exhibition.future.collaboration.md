@@ -2,7 +2,7 @@
 id: gkvX6MrncvIr7cb6Rk8OM
 title: Collaboration
 desc: ''
-updated: 1645506788506
+updated: 1645508656150
 created: 1645493504343
 ---
 This note describes how we imagine other researchers and developers could use and extend our workflow.
@@ -27,4 +27,16 @@ This note describes how we imagine other researchers and developers could use an
   - GitHub means change history is tracked and accessible to anyone.
     - Contributors can resolve change conflicts together.
   - GitHub Issues enables users to debate changes.
-  - Relic CodeStream allows users to comment on documents and see GitHub issues in context.
+  - [New Relic CodeStream](https://www.codestream.com/) allows users to comment on documents and see GitHub issues in context.
+
+## Similar projects
+
+- [Digital gardening](https://github.com/MaggieAppleton/digital-gardeners)
+  - [History of the concept by Maggie Appleton](https://maggieappleton.com/garden-history)
+  - Loosely organised/hierarchical collections of notes that serve as knowledge bases for users.
+- 
+
+## Limitations
+- Visual Studio Code and git/GitHub can challenge inexperienced users. 
+  - Instructions that simplify this procedure could smooth this learning curve, allowing users to contribute quickly.
+

@@ -2,7 +2,7 @@
 id: 2t0XEk9vglUdfC5fJgBHm
 title: Rationale
 desc: ''
-updated: 1645262072317
+updated: 1645508602692
 created: 1624350459400
 ---
 
@@ -90,9 +90,7 @@ Strong/weak sides to them
 The observation that something has been common in the past or is still common does not necessarily mean it is a good/worthwhile way to do things
 
 - Useful/parallel/interesting concepts
-  - [Digital gardening](https://github.com/MaggieAppleton/digital-gardeners)
-    - Loosely organised/hierarchical collections of notes that serve as knowledge bases for users.
-    - [History of the concept by Maggie Appleton](https://maggieappleton.com/garden-history)
+
 
 - Future ideas
   - Integration of reference objects (e.g. Zotero) into knowledge bases
