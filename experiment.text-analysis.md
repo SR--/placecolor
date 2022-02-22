@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis Overview
 desc: 'Standard introduction for experiments using text analysis to explore place in *[[Gormenghast|example.gormenghast]]*.'
-updated: 1645444992754
+updated: 1645491651683
 created: 1624955696999
 ---
 
@@ -12,7 +12,6 @@ created: 1624955696999
 Excerpt from text analysis of <i>Gormenghast</i>.
 </figcaption>
 </p>
-
 
 - An observer's perception of an environment contributes to their sense of a place.
 - Cultural and biological factors influence these perceptions
