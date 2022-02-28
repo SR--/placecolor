@@ -1,8 +1,8 @@
 ---
 id: 2hzDuwJePinBfGb36KfY6
-title: Meeting with Awnili on 24th February
+title: Meeting with Awnili on 25th February
 desc: ''
-updated: 1645509348545
+updated: 1646013148776
 created: 1645493000820
 ---
 
@@ -25,5 +25,12 @@ created: 1645493000820
     - Review [[rules|admin.rules]] for contributing to the project
     - Demonstrate the procedure for syncing the GitHub repository
     - Show Note Graph view.
+  - Show the vault structure
+    - [[admin]] contains [[meeting minutes|admin.meetings]] 
+  - Show an example of publishing
 - Share some projects that share our goals
   - [[Some examples here|exhibition.rationale]]
+
+## Setting up Dendron
+
+1. Install [VS Code](https://code.visualstudio.com/download)
