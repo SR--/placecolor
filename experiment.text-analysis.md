@@ -2,7 +2,7 @@
 id: 7_ug5qkhWRcPsYKaeMsG8
 title: Text Analysis Overview
 desc: 'Standard introduction for experiments using text analysis to explore place in *[[Gormenghast|example.gormenghast]]*.'
-updated: 1645491651683
+updated: 1646185161593
 created: 1624955696999
 ---
 
@@ -36,7 +36,7 @@ Excerpt from text analysis of <i>Gormenghast</i>.
       - One can argue that nonhuman species can construct place attachments depending on the sophistication of their perceptual abilities.
 
 
-- [ ]: Integrate the paragraph below.
+- [ ] Integrate the paragraph below.
 - Provide tools and methods for "quantifying" the use of language related to [[place|relationship.place]] in *Gormenghast* with a focus on the relationships between:
   1. Phenomena such as [[color|relationship.color]], light, texture and atmosphere.
   2. Discrete geographical locations and their component parts, e.g. buildings and rooms, forests and trees, etc.
