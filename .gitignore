@@ -1,4 +1,3 @@
 .next
-.dendron.cache.json
-
 .dendron.cache.*
+.DS_Store
