@@ -24,7 +24,7 @@ created: 1624856251572
   - Zoom in on a chapter/section with interesting/diverse colors
     - Provide explanation and context for chapter
   - Zoom in on paragraph-length examples with examples of words
-- Pair named colors with sentence examples from the book (show variation in black, gray, yellow, green, etc.)
+- Pair named colors with sentence examples from the book (show variation in black, grey, yellow, green, etc.)
   - Also include information from dictionaries about word origin, age, history, etc.
 - Explain named color data source
 

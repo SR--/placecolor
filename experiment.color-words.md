@@ -50,9 +50,9 @@ created: 1624870395618
 ![](/assets/images/2021-09-02-14-46-54.png)
 ![](/assets/images/2021-09-02-14-59-38.png)
 
-> Casson, Ronald W. “Russett, Rose, and Raspberry: The Development of English Secondary Color Terms.” _Journal of Linguistic Anthropology_ 4, no. 1 (1994): 5–22. https://doi.org/10/c8tmdh.
+Casson, Ronald W. “Russett, Rose, and Raspberry: The Development of English Secondary Color Terms.” _Journal of Linguistic Anthropology_ 4, no. 1 (1994): 5–22. https://doi.org/10/c8tmdh.
 
-> Biggam, Carole P. _The Semantics of Colour: A Historical Approach_. Cambridge, UK: Cambridge University Press, 2012.
+Biggam, Carole P. _The Semantics of Colour: A Historical Approach_. Cambridge, UK: Cambridge University Press, 2012.
 
 ##### Encycolorpedia
 
